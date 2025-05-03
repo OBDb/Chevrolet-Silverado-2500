@@ -1,0 +1,20 @@
+generations:
+  - name: "First Generation (GMT800)"
+    start_year: 1999
+    end_year: 2007
+    description: "The original Silverado 2500 (HD from 2001) replaced the C/K 2500 as Chevrolet's heavy-duty pickup truck. Available in various cab and bed configurations, it featured heavier-duty components than the 1500 series, including stronger frames, suspension, and drivetrain parts. Powertrain options included a standard 6.0L Vortec V8 gasoline engine and the optional 6.6L Duramax diesel V8 paired with an Allison transmission, the latter becoming a highly regarded combination for its power and durability. Carrying capacities significantly exceeded the light-duty 1500 series, with enhanced cooling, braking, and structural reinforcements to handle heavier loads. This generation established the Silverado HD's reputation for capability in towing and hauling while offering reasonable comfort for a heavy-duty truck."
+
+  - name: "Second Generation (GMT900)"
+    start_year: 2007
+    end_year: 2014
+    description: "The redesigned Silverado 2500HD featured more aerodynamic styling, an improved structure with higher torsional rigidity, and updated powertrains. The 6.0L gasoline V8 continued as the standard engine, while the 6.6L Duramax diesel received significant updates throughout this generation, eventually reaching 397 HP and 765 lb-ft of torque. Interior comfort and features improved substantially, with better materials and design plus available luxury features uncommon in previous heavy-duty trucks. Capability increased with higher towing and payload ratings, while features like an integrated trailer brake controller and exhaust brake improved towing safety. This generation maintained clear differentiation from the light-duty models with unique styling cues indicating its heavy-duty status."
+
+  - name: "Third Generation (K2XX)"
+    start_year: 2015
+    end_year: 2019
+    description: "The third-generation Silverado 2500HD featured distinctive styling with a taller hood line and more aggressive appearance than the 1500 series. The 6.0L gasoline V8 (later updated to a 6.6L) and 6.6L Duramax diesel continued as powertrain options, with the diesel receiving updates to reach 445 HP and 910 lb-ft of torque. The interior offered similar improvements to the 1500 series with better technology including the Chevrolet MyLink infotainment system. Heavy-duty-specific features expanded to include Digital Steering Assist, enhanced cooling packages, and integrated bumper steps for easier bed access. Capability continued to increase with class-competitive towing and payload ratings, while refinement improved to make these work-focused trucks more suitable for daily driving."
+
+  - name: "Fourth Generation (T2XX)"
+    start_year: 2020
+    end_year: null
+    description: "The current Silverado 2500HD features the most differentiation from the light-duty models in the nameplate's history, with unique sheet metal and a massive grille designed to maximize cooling capacity. Powertrain options include a new 6.6L gasoline V8 producing 401 HP and 464 lb-ft of torque and an updated 6.6L Duramax diesel V8 generating 470 HP and 975 lb-ft of torque, the latter paired with a 10-speed Allison transmission. Capability increased significantly with maximum towing capacity exceeding 18,000 pounds when properly equipped. Technology advancements include an available 15-camera system with transparent trailer view, head-up display, and advanced trailering features. The interior initially shared the somewhat conservative design of the light-duty models, but a 2024 update brought a substantially improved interior with larger displays and better materials. The fourth-generation Silverado 2500HD balances increased capability and technology with improved comfort and usability, meeting the needs of customers who use their trucks for both work and personal transportation."
