@@ -1,0 +1,14 @@
+command_id: DA11.221208|fc=1,c=14
+test_cases:
+- response: 18DAF1110462120800
+  expected_values:
+    CHEVROLET_MIS_4: 0
+- response: 18DAF1110462120801
+  expected_values:
+    CHEVROLET_MIS_4: 0.39216
+- response: 18DAF1110462120802
+  expected_values:
+    CHEVROLET_MIS_4: 0.78431
+- response: 18DAF1110462120804
+  expected_values:
+    CHEVROLET_MIS_4: 1.56863
