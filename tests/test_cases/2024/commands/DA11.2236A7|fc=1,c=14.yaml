@@ -1,0 +1,5 @@
+command_id: DA11.2236A7|fc=1,c=14
+test_cases:
+- response: 18DAF111056236A74B10
+  expected_values:
+    CHEVROLET_AIRFILT_LIFE: 75

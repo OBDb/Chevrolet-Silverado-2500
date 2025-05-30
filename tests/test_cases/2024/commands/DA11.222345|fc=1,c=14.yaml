@@ -1,0 +1,8 @@
+command_id: DA11.222345|fc=1,c=14
+test_cases:
+- response: 18DAF1110462234500
+  expected_values:
+    CHEVROLET_EOP_ACT: 0
+- response: 18DAF1110462234578
+  expected_values:
+    CHEVROLET_EOP_ACT: 480
