@@ -1,0 +1,8 @@
+command_id: DB33.015E
+test_cases:
+- expected_values:
+    FUEL_RATE: 1.75
+  response: 18DAF11104415E0023
+- expected_values:
+    FUEL_RATE: 8
+  response: 18DAF11104415E00A0
