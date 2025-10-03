@@ -1,0 +1,11 @@
+command_id: DA18.221B30|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_GEAR: NEUTRAL
+  response: 142AF11804621B3001
+- expected_values:
+    CHEVROLET_GEAR: D8
+  response: 142AF11804621B300B
+- expected_values:
+    CHEVROLET_GEAR: PARK
+  response: 18DAF11804621B3002
