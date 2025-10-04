@@ -4,8 +4,8 @@ test_cases:
     CHEVROLET_EOT: 14
   response: 142AF1110462153E36
 - expected_values:
-    CHEVROLET_EOT: 95
-  response: 142AF1110462153E87
+    CHEVROLET_EOT: 96
+  response: 142AF1110462153E88
 - expected_values:
     CHEVROLET_EOT: 13
   response: 18DAF1110462153E35
