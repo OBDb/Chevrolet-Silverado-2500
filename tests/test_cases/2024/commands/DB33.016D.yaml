@@ -17,6 +17,22 @@ test_cases:
     18DAF111100D416D370E6C0F
     18DAF111210845000010F84E
 - expected_values:
+    FRP_A: 39080
+    FRP_A_CMD: 38470
+    FRP_A_CMD_SUP: 1
+    FRP_A_SUP: 1
+    FRP_B: 38740
+    FRP_B_CMD: 0
+    FRP_B_CMD_SUP: 0
+    FRP_B_SUP: 1
+    FRT_A: 25
+    FRT_A_SUP: 1
+    FRT_B: 52
+    FRT_B_SUP: 1
+  response: |-
+    18DAF111100D416D370F070F
+    18DAF11121444100000F225C
+- expected_values:
     FRP_A: 42070
     FRP_A_CMD: 42090
     FRP_A_CMD_SUP: 1
