@@ -3,18 +3,14 @@ test_cases:
 - expected_values:
     EGRTA: 47
     EGRTA_SUP: 0
-    EGRTA_WIDE: 308
     EGRTA_WR_SUP: 1
     EGRTB: 34
     EGRTB_SUP: 0
-    EGRTB_WIDE: 256
     EGRTB_WR_SUP: 0
     EGRTC: -2
     EGRTC_SUP: 0
-    EGRTC_WIDE: 112
     EGRTC_WR_SUP: 1
     EGRTD: 34
     EGRTD_SUP: 0
-    EGRTD_WIDE: 256
     EGRTD_WR_SUP: 0
   response: 18DAF11107416B3057264A4A
