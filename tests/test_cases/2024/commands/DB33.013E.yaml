@@ -4,6 +4,18 @@ test_cases:
     CATEMP12: 129.1
   response: 18DAF11104413E069B
 - expected_values:
+    CATEMP12: 157.8
+  response: 18DAF11104413E07BA
+- expected_values:
+    CATEMP12: 159
+  response: 18DAF11104413E07C6
+- expected_values:
+    CATEMP12: 160
+  response: 18DAF11104413E07D0
+- expected_values:
+    CATEMP12: 161.2
+  response: 18DAF11104413E07DC
+- expected_values:
     CATEMP12: 173.5
   response: 18DAF11104413E0857
 - expected_values:

@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     CYL_RATE: 12.03125
   response: 18DAF1110441A20181
+- expected_values:
+    CYL_RATE: 12.375
+  response: 18DAF1110441A2018C
+- expected_values:
+    CYL_RATE: 12.5625
+  response: 18DAF1110441A20192
