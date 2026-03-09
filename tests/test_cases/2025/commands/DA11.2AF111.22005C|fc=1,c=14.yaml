@@ -1,0 +1,26 @@
+command_id: DA11.2AF111.22005C|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_EOT_V2: 60
+  response: 142AF1110462005C64
+- expected_values:
+    CHEVROLET_EOT_V2: 65
+  response: 142AF1110462005C69
+- expected_values:
+    CHEVROLET_EOT_V2: 68
+  response: 142AF1110462005C6C
+- expected_values:
+    CHEVROLET_EOT_V2: 70
+  response: 142AF1110462005C6E
+- expected_values:
+    CHEVROLET_EOT_V2: 72
+  response: 142AF1110462005C70
+- expected_values:
+    CHEVROLET_EOT_V2: 74
+  response: 142AF1110462005C72
+- expected_values:
+    CHEVROLET_EOT_V2: 75
+  response: 142AF1110462005C73
+- expected_values:
+    CHEVROLET_EOT_V2: 76
+  response: 142AF1110462005C74
