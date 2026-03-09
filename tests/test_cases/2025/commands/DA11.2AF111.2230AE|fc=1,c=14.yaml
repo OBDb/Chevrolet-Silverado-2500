@@ -1,0 +1,17 @@
+command_id: DA11.2AF111.2230AE|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_CHARGE_AIR_COOLER_T_SNS_2: 34
+  response: 142AF111046230AE4A
+- expected_values:
+    CHEVROLET_CHARGE_AIR_COOLER_T_SNS_2: 35
+  response: 142AF111046230AE4B
+- expected_values:
+    CHEVROLET_CHARGE_AIR_COOLER_T_SNS_2: 36
+  response: 142AF111046230AE4C
+- expected_values:
+    CHEVROLET_CHARGE_AIR_COOLER_T_SNS_2: 38
+  response: 142AF111046230AE4E
+- expected_values:
+    CHEVROLET_CHARGE_AIR_COOLER_T_SNS_2: 39
+  response: 142AF111046230AE4F

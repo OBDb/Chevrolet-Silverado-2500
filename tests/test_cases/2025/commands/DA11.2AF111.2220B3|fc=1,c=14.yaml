@@ -1,0 +1,29 @@
+command_id: DA11.2AF111.2220B3|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_FUEL_INJECTION_C8: 2.716
+  response: 142AF111056220B30A9C
+- expected_values:
+    CHEVROLET_FUEL_INJECTION_C8: 2.729
+  response: 142AF111056220B30AA9
+- expected_values:
+    CHEVROLET_FUEL_INJECTION_C8: 3.008
+  response: 142AF111056220B30BC0
+- expected_values:
+    CHEVROLET_FUEL_INJECTION_C8: 3.012
+  response: 142AF111056220B30BC4
+- expected_values:
+    CHEVROLET_FUEL_INJECTION_C8: 3.022
+  response: 142AF111056220B30BCE
+- expected_values:
+    CHEVROLET_FUEL_INJECTION_C8: 3.039
+  response: 142AF111056220B30BDF
+- expected_values:
+    CHEVROLET_FUEL_INJECTION_C8: 3.056
+  response: 142AF111056220B30BF0
+- expected_values:
+    CHEVROLET_FUEL_INJECTION_C8: 3.085
+  response: 142AF111056220B30C0D
+- expected_values:
+    CHEVROLET_FUEL_INJECTION_C8: 3.098
+  response: 142AF111056220B30C1A
