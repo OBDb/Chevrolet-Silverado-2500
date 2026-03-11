@@ -1,6 +1,9 @@
 command_id: DA11.2AF111.2230AD|fc=1,c=14
 test_cases:
 - expected_values:
+    CHEVROLET_CHARGE_AIR_COOLER_T_SNS_1: 38
+  response: 142AF111046230AD4E
+- expected_values:
     CHEVROLET_CHARGE_AIR_COOLER_T_SNS_1: 53
   response: 142AF111046230AD5D
 - expected_values:
