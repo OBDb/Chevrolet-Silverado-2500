@@ -4,29 +4,5 @@ test_cases:
     CHEVROLET_TC_SLIP_VSS: 10.375
   response: 142AF118056219910053
 - expected_values:
-    CHEVROLET_TC_SLIP_VSS: 11
-  response: 142AF118056219910058
-- expected_values:
-    CHEVROLET_TC_SLIP_VSS: 13
-  response: 142AF118056219910068
-- expected_values:
-    CHEVROLET_TC_SLIP_VSS: 13.375
-  response: 142AF11805621991006B
-- expected_values:
-    CHEVROLET_TC_SLIP_VSS: 13.5
-  response: 142AF11805621991006C
-- expected_values:
-    CHEVROLET_TC_SLIP_VSS: 13.875
-  response: 142AF11805621991006F
-- expected_values:
-    CHEVROLET_TC_SLIP_VSS: 15
-  response: 142AF118056219910078
-- expected_values:
-    CHEVROLET_TC_SLIP_VSS: 16.625
-  response: 142AF118056219910085
-- expected_values:
-    CHEVROLET_TC_SLIP_VSS: 17.625
-  response: 142AF11805621991008D
-- expected_values:
-    CHEVROLET_TC_SLIP_VSS: 18.5
-  response: 142AF118056219910094
+    CHEVROLET_TC_SLIP_VSS: 22.125
+  response: 142AF1180562199100B1

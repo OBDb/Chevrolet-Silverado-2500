@@ -1,6 +1,9 @@
 command_id: DA11.2AF111.22005C|fc=1,c=14
 test_cases:
 - expected_values:
+    CHEVROLET_EOT_V2: 43
+  response: 142AF1110462005C53
+- expected_values:
     CHEVROLET_EOT_V2: 60
   response: 142AF1110462005C64
 - expected_values:

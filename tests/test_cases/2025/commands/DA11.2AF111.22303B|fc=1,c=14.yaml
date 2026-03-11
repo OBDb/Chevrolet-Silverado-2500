@@ -1,11 +1,8 @@
 command_id: DA11.2AF111.22303B|fc=1,c=14
 test_cases:
 - expected_values:
-    CHEVROLET_DPF_EGT_2: 131.8
-  response: 142AF1110562303B06B6
-- expected_values:
-    CHEVROLET_DPF_EGT_2: 134.8
-  response: 142AF1110562303B06D4
+    CHEVROLET_DPF_EGT_2: 125.1
+  response: 142AF1110562303B0673
 - expected_values:
     CHEVROLET_DPF_EGT_2: 137.1
   response: 142AF1110562303B06EB
@@ -13,20 +10,5 @@ test_cases:
     CHEVROLET_DPF_EGT_2: 143.1
   response: 142AF1110562303B0727
 - expected_values:
-    CHEVROLET_DPF_EGT_2: 148.5
-  response: 142AF1110562303B075D
-- expected_values:
-    CHEVROLET_DPF_EGT_2: 150.8
-  response: 142AF1110562303B0774
-- expected_values:
-    CHEVROLET_DPF_EGT_2: 151.8
-  response: 142AF1110562303B077E
-- expected_values:
-    CHEVROLET_DPF_EGT_2: 155.1
-  response: 142AF1110562303B079F
-- expected_values:
     CHEVROLET_DPF_EGT_2: 201.1
   response: 142AF1110562303B096B
-- expected_values:
-    CHEVROLET_DPF_EGT_2: 204.5
-  response: 142AF1110562303B098D
