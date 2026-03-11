@@ -13,6 +13,9 @@ test_cases:
     CHEVROLET_CHARGE_AIR_COOLER_T_SNS_2: 36
   response: 142AF111046230AE4C
 - expected_values:
+    CHEVROLET_CHARGE_AIR_COOLER_T_SNS_2: 37
+  response: 142AF111046230AE4D
+- expected_values:
     CHEVROLET_CHARGE_AIR_COOLER_T_SNS_2: 38
   response: 142AF111046230AE4E
 - expected_values:
