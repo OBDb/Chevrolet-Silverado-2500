@@ -10,20 +10,5 @@ test_cases:
     CHEVROLET_DPF_EGT_1: 143.8
   response: 142AF1110562303A072E
 - expected_values:
-    CHEVROLET_DPF_EGT_1: 146.8
-  response: 142AF1110562303A074C
-- expected_values:
-    CHEVROLET_DPF_EGT_1: 147.8
-  response: 142AF1110562303A0756
-- expected_values:
-    CHEVROLET_DPF_EGT_1: 148.1
-  response: 142AF1110562303A0759
-- expected_values:
-    CHEVROLET_DPF_EGT_1: 150.8
-  response: 142AF1110562303A0774
-- expected_values:
-    CHEVROLET_DPF_EGT_1: 153.5
-  response: 142AF1110562303A078F
-- expected_values:
-    CHEVROLET_DPF_EGT_1: 155.5
-  response: 142AF1110562303A07A3
+    CHEVROLET_DPF_EGT_1: 199.5
+  response: 142AF1110562303A095B
