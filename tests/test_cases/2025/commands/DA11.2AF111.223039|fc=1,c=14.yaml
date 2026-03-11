@@ -1,5 +1,8 @@
 command_id: DA11.2AF111.223039|fc=1,c=14
 test_cases:
 - expected_values:
+    CHEVROLET_DPF_DIST_SINCE_LAST_REGEN: 108
+  response: 142AF11105623039006C
+- expected_values:
     CHEVROLET_DPF_DIST_SINCE_LAST_REGEN: 569
   response: 142AF111056230390239

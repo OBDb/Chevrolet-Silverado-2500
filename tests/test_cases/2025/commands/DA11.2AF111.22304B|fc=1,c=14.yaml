@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CHEVROLET_DPF_NUMBER_OF_COMPLETED_REGENS: 25
   response: 142AF1110562304B0019
+- expected_values:
+    CHEVROLET_DPF_NUMBER_OF_COMPLETED_REGENS: 26
+  response: 142AF1110562304B001A
