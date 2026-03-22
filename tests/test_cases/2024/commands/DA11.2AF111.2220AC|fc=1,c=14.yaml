@@ -1,0 +1,11 @@
+command_id: DA11.2AF111.2220AC|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_FUEL_INJECTION_C1: 0
+  response: 142AF111056220AC0000
+- expected_values:
+    CHEVROLET_FUEL_INJECTION_C1: 1.019
+  response: 142AF111056220AC03FB
+- expected_values:
+    CHEVROLET_FUEL_INJECTION_C1: 3.115
+  response: 142AF111056220AC0C2B
