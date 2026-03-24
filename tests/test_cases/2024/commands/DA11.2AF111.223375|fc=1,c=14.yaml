@@ -2,4 +2,7 @@ command_id: DA11.2AF111.223375|fc=1,c=14
 test_cases:
 - expected_values:
     CHEVROLET_DPF_REGEN_STS: 2
+  response: 142AF111056233750212
+- expected_values:
+    CHEVROLET_DPF_REGEN_STS: 2
   response: 142AF111056233750280
