@@ -21,3 +21,9 @@ test_cases:
 - expected_values:
     CHEVROLET_DPF_DIST_SINCE_LAST_REGEN: 80
   response: 142AF111056230390050
+- expected_values:
+    CHEVROLET_DPF_DIST_SINCE_LAST_REGEN: 420
+  response: 142AF1110562303901A4
+- expected_values:
+    CHEVROLET_DPF_DIST_SINCE_LAST_REGEN: 421
+  response: 142AF1110562303901A5
