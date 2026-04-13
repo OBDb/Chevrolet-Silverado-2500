@@ -1,8 +1,8 @@
 command_id: DA18.2AF118.221991|fc=1,c=14
 test_cases:
 - expected_values:
-    CHEVROLET_TC_SLIP_VSS: 0.25
-  response: 142AF118056219910002
+    CHEVROLET_TC_SLIP_VSS: 0
+  response: 142AF118056219910000
 - expected_values:
     CHEVROLET_TC_SLIP_VSS: -27.125
   response: 142AF11805621991FF27
