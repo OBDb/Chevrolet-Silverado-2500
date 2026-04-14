@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     CHEVROLET_DPF_REGEN_STS: 2
   response: 142AF1110562337502C6
+- expected_values:
+    CHEVROLET_DPF_REGEN_STS: 3
+  response: 142AF111056233750316
