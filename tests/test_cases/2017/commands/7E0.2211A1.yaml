@@ -10,5 +10,5 @@ test_cases:
     CHEVROLET_RUNTM: 501
   response: 7E8056211A101F5
 - expected_values:
-    CHEVROLET_RUNTM: 533
-  response: 7E8056211A10215
+    CHEVROLET_RUNTM: 2896
+  response: 7E8056211A10B50
