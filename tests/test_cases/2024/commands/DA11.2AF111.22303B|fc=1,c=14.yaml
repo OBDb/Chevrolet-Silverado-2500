@@ -1,11 +1,11 @@
 command_id: DA11.2AF111.22303B|fc=1,c=14
 test_cases:
 - expected_values:
-    CHEVROLET_DPF_EGT_2: 177.8
-  response: 142AF1110562303B0882
+    CHEVROLET_DPF_EGT_2: 163.5
+  response: 142AF1110562303B07F3
 - expected_values:
-    CHEVROLET_DPF_EGT_2: 190.5
-  response: 142AF1110562303B0901
+    CHEVROLET_DPF_EGT_2: 164.8
+  response: 142AF1110562303B0800
 - expected_values:
     CHEVROLET_DPF_EGT_2: 215.8
   response: 142AF1110562303B09FE
