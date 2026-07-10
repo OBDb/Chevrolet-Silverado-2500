@@ -1,0 +1,14 @@
+command_id: DA11.22005E|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_FUEL_RATE: 0
+  response: 142AF1110562005E0000
+- expected_values:
+    CHEVROLET_FUEL_RATE: 12.75
+  response: 142AF1110562005E00FF
+- expected_values:
+    CHEVROLET_FUEL_RATE: 94.55
+  response: 142AF1110562005E0763
+- expected_values:
+    CHEVROLET_FUEL_RATE: 0
+  response: 18DAF1110562005E0000
