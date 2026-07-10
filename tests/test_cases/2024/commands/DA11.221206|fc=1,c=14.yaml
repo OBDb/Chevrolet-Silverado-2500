@@ -1,0 +1,32 @@
+command_id: DA11.221206|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_MIS_1: 0
+  response: 142AF1110462120600
+- expected_values:
+    CHEVROLET_MIS_1: 0.39216
+  response: 142AF1110462120601
+- expected_values:
+    CHEVROLET_MIS_1: 0.78431
+  response: 142AF1110462120602
+- expected_values:
+    CHEVROLET_MIS_1: 1.17647
+  response: 142AF1110462120603
+- expected_values:
+    CHEVROLET_MIS_1: 1.56863
+  response: 142AF1110462120604
+- expected_values:
+    CHEVROLET_MIS_1: 1.96078
+  response: 142AF1110462120605
+- expected_values:
+    CHEVROLET_MIS_1: 2.35294
+  response: 142AF1110462120606
+- expected_values:
+    CHEVROLET_MIS_1: 0
+  response: 18DAF1110462120600
+- expected_values:
+    CHEVROLET_MIS_1: 0.39216
+  response: 18DAF1110462120601
+- expected_values:
+    CHEVROLET_MIS_1: 0.78431
+  response: 18DAF1110462120602
