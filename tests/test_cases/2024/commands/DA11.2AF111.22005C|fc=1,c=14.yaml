@@ -4,5 +4,5 @@ test_cases:
     CHEVROLET_EOT_V2: 34
   response: 142AF1110462005C4A
 - expected_values:
-    CHEVROLET_EOT_V2: 97
-  response: 142AF1110462005C89
+    CHEVROLET_EOT_V2: 99
+  response: 142AF1110462005C8B
