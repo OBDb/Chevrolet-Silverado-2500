@@ -1,6 +1,9 @@
 command_id: DA11.2AF111.2220F8|fc=1,c=14
 test_cases:
 - expected_values:
+    CHEVROLET_DPF_AVG_FLT_INLET_T_DURING_REGEN: 0
+  response: 142AF111056220F80190
+- expected_values:
     CHEVROLET_DPF_AVG_FLT_INLET_T_DURING_REGEN: 566.1
   response: 142AF111056220F817AD
 - expected_values:
