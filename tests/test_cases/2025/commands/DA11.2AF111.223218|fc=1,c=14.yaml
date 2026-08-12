@@ -1,11 +1,32 @@
 command_id: DA11.2AF111.223218|fc=1,c=14
 test_cases:
 - expected_values:
+    CHEVROLET_FUEL_T: 32.5
+  response: 142AF1110462321841
+- expected_values:
     CHEVROLET_FUEL_T: 33
   response: 142AF1110462321842
 - expected_values:
     CHEVROLET_FUEL_T: 34.5
   response: 142AF1110462321845
 - expected_values:
+    CHEVROLET_FUEL_T: 35
+  response: 142AF1110462321846
+- expected_values:
     CHEVROLET_FUEL_T: 35.5
   response: 142AF1110462321847
+- expected_values:
+    CHEVROLET_FUEL_T: 37
+  response: 142AF111046232184A
+- expected_values:
+    CHEVROLET_FUEL_T: 37.5
+  response: 142AF111046232184B
+- expected_values:
+    CHEVROLET_FUEL_T: 38
+  response: 142AF111046232184C
+- expected_values:
+    CHEVROLET_FUEL_T: 38.5
+  response: 142AF111046232184D
+- expected_values:
+    CHEVROLET_FUEL_T: 39
+  response: 142AF111046232184E
