@@ -1,0 +1,14 @@
+command_id: DA11.2234D8|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_DPF_PRES: 0.08
+    CHEVROLET_DPF_PRESS: 0.08
+  response: 142AF111056234D80008
+- expected_values:
+    CHEVROLET_DPF_PRES: 2.54
+    CHEVROLET_DPF_PRESS: 2.54
+  response: 142AF111056234D800FE
+- expected_values:
+    CHEVROLET_DPF_PRES: 2.78
+    CHEVROLET_DPF_PRESS: 2.78
+  response: 142AF111056234D80116

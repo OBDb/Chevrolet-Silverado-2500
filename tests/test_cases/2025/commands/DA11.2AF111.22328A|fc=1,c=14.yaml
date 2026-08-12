@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     CHEVROLET_BP_DES: 98
   response: 142AF1110562328A2648
+- expected_values:
+    CHEVROLET_BP_DES: 135.62
+  response: 142AF1110562328A34FA
+- expected_values:
+    CHEVROLET_BP_DES: 140.84
+  response: 142AF1110562328A3704
+- expected_values:
+    CHEVROLET_BP_DES: 185.72
+  response: 142AF1110562328A488C
