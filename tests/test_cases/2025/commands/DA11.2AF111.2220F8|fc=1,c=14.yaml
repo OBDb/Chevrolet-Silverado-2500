@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     CHEVROLET_DPF_AVG_FLT_INLET_T_DURING_REGEN: 563.7
   response: 142AF111056220F81795
+- expected_values:
+    CHEVROLET_DPF_AVG_FLT_INLET_T_DURING_REGEN: 564
+  response: 142AF111056220F81798
