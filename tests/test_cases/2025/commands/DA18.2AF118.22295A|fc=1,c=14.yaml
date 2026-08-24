@@ -4,5 +4,5 @@ test_cases:
     CHEVROLET_TF_T_FLTED: 26
   response: 142AF1180462295A42
 - expected_values:
-    CHEVROLET_TF_T_FLTED: 65
-  response: 142AF1180462295A69
+    CHEVROLET_TF_T_FLTED: 66
+  response: 142AF1180462295A6A
