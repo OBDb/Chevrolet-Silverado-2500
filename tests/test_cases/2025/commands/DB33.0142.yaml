@@ -1,6 +1,13 @@
 command_id: DB33.0142
 test_cases:
 - expected_values:
+    VPWR: 12.539
+  response: |-
+    18DAF11104414230AA
+    18DAF1180441422F61
+    18DAF1280441423158
+    18DAF14004414230FB
+- expected_values:
     VPWR: 12.617
   response: |-
     18DAF11104414230BE
@@ -21,13 +28,6 @@ test_cases:
     18DAF1400441423220
     18DAF11804414230BB
     18DAF1280441423295
-- expected_values:
-    VPWR: 13.159
-  response: |-
-    18DAF1110441423345
-    18DAF11804414231EE
-    18DAF128044142339A
-    18DAF1400441423367
 - expected_values:
     VPWR: 13.336
   response: |-
@@ -78,6 +78,13 @@ test_cases:
     18DAF1400441423603
     18DAF11104414235BA
 - expected_values:
+    VPWR: 12.4
+  response: |-
+    18DAF128044142311E
+    18DAF14004414230AA
+    18DAF1180441422F3E
+    18DAF1110441423070
+- expected_values:
     VPWR: 12.129
   response: |-
     18DAF1280441423204
@@ -115,13 +122,6 @@ test_cases:
     18DAF1180441422FE6
     18DAF11104414231C1
     18DAF1280441423279
-- expected_values:
-    VPWR: 12.401
-  response: |-
-    18DAF140044142324F
-    18DAF11104414231F5
-    18DAF12804414232C4
-    18DAF1180441423071
 - expected_values:
     VPWR: 13.05
   response: |-
