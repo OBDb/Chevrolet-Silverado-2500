@@ -41,6 +41,11 @@ test_cases:
     142AF111100C6200780F06DE
     142AF11121067A0760049A55
 - expected_values:
+    CHEVROLET_DPF_EGT_4: 99.8
+  response: |-
+    142AF111100C6200780F0800
+    142AF11121080A06A9057655
+- expected_values:
     CHEVROLET_DPF_EGT_4: 333.8
   response: |-
     142AF111100C6200780F09D3
@@ -60,11 +65,6 @@ test_cases:
   response: |-
     142AF111100C6200780F0B02
     142AF111210AF8105F0DB755
-- expected_values:
-    CHEVROLET_DPF_EGT_4: 93.8
-  response: |-
-    142AF111100C6200780F0D00
-    142AF111210C7706D7053A55
 - expected_values:
     CHEVROLET_DPF_EGT_4: 184.5
   response: |-
