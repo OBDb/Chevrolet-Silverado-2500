@@ -4,5 +4,5 @@ test_cases:
     CHEVROLET_EO_AP: 88
   response: 142AF1110462234416
 - expected_values:
-    CHEVROLET_EO_AP: 692
-  response: 142AF11104622344AD
+    CHEVROLET_EO_AP: 696
+  response: 142AF11104622344AE
