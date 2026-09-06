@@ -4,5 +4,5 @@ test_cases:
     CHEVROLET_FUEL_T: 30.5
   response: 142AF111046232183D
 - expected_values:
-    CHEVROLET_FUEL_T: 41
-  response: 142AF1110462321852
+    CHEVROLET_FUEL_T: 42
+  response: 142AF1110462321854
