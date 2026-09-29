@@ -7,5 +7,14 @@ test_cases:
     CHEVROLET_EGR_V: 0.82353
   response: 7E80462114B2A
 - expected_values:
+    CHEVROLET_EGR_V: 0.84314
+  response: 7E80462114B2B
+- expected_values:
     CHEVROLET_EGR_V: 0.86275
   response: 7E80462114B2C
+- expected_values:
+    CHEVROLET_EGR_V: 1.15686
+  response: 7E80462114B3B
+- expected_values:
+    CHEVROLET_EGR_V: 1.82353
+  response: 7E80462114B5D

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221470|fc=1
 test_cases:
 - expected_values:
-    CHEVROLET_EOP_V2: 4
+    CHEVROLET_EOP_DA11: 4
   response: '7E80462147001'
 - expected_values:
-    CHEVROLET_EOP_V2: 484
+    CHEVROLET_EOP_DA11: 484
   response: '7E80462147079'

@@ -4,8 +4,8 @@ test_cases:
     CHEVROLET_FUEL_RATE: 0
   response: 7E80562005E0000
 - expected_values:
-    CHEVROLET_FUEL_RATE: 11.1
-  response: 7E80562005E00DE
+    CHEVROLET_FUEL_RATE: 11.35
+  response: 7E80562005E00E3
 - expected_values:
-    CHEVROLET_FUEL_RATE: 13.9
-  response: 7E80562005E0116
+    CHEVROLET_FUEL_RATE: 32.7
+  response: 7E80562005E028E

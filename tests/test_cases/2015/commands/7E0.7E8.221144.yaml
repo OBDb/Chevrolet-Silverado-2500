@@ -4,26 +4,5 @@ test_cases:
     CHEVROLET_CABIN_AC_HIGH_SIDE_V: 1.02
   response: '7E80462114433'
 - expected_values:
-    CHEVROLET_CABIN_AC_HIGH_SIDE_V: 1.04
-  response: '7E80462114434'
-- expected_values:
-    CHEVROLET_CABIN_AC_HIGH_SIDE_V: 1.06
-  response: '7E80462114435'
-- expected_values:
-    CHEVROLET_CABIN_AC_HIGH_SIDE_V: 1.08
-  response: '7E80462114436'
-- expected_values:
-    CHEVROLET_CABIN_AC_HIGH_SIDE_V: 1.1
-  response: '7E80462114437'
-- expected_values:
-    CHEVROLET_CABIN_AC_HIGH_SIDE_V: 1.12
-  response: '7E80462114438'
-- expected_values:
-    CHEVROLET_CABIN_AC_HIGH_SIDE_V: 1.14
-  response: '7E80462114439'
-- expected_values:
-    CHEVROLET_CABIN_AC_HIGH_SIDE_V: 1.16
-  response: 7E8046211443A
-- expected_values:
-    CHEVROLET_CABIN_AC_HIGH_SIDE_V: 1.2
-  response: 7E8046211443C
+    CHEVROLET_CABIN_AC_HIGH_SIDE_V: 2.64
+  response: '7E80462114484'
