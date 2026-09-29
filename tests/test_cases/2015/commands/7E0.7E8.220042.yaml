@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220042
+test_cases:
+- expected_values:
+    CHEVROLET_M_CTRL_MODULE_V: 12.44
+  response: '7E8056200423098'
+- expected_values:
+    CHEVROLET_M_CTRL_MODULE_V: 13.86
+  response: '7E8056200423624'
+- expected_values:
+    CHEVROLET_M_CTRL_MODULE_V: 14.04
+  response: 7E80562004236D8
