@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2230AD|fc=1
 test_cases:
 - expected_values:
-    CHEVROLET_CHG_AIR_COOLER_T_1: 16
+    CHEVROLET_CHARGE_AIR_COOLER_T_SNS_1: 16
   response: 7E8046230AD38
 - expected_values:
-    CHEVROLET_CHG_AIR_COOLER_T_1: 31
-  response: 7E8046230AD47
+    CHEVROLET_CHARGE_AIR_COOLER_T_SNS_1: 48
+  response: 7E8046230AD58

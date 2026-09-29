@@ -1,14 +1,14 @@
 command_id: DA11.2AF111.22328A|fc=1,c=14
 test_cases:
 - expected_values:
-    CHEVROLET_BP_DES_V2: 98
+    CHEVROLET_BP_DES_DA11: 98
   response: 142AF1110562328A2648
 - expected_values:
-    CHEVROLET_BP_DES_V2: 104.98
+    CHEVROLET_BP_DES_DA11: 104.98
   response: 142AF1110562328A2902
 - expected_values:
-    CHEVROLET_BP_DES_V2: 107.5
+    CHEVROLET_BP_DES_DA11: 107.5
   response: 142AF1110562328A29FE
 - expected_values:
-    CHEVROLET_BP_DES_V2: 216.92
+    CHEVROLET_BP_DES_DA11: 216.92
   response: 142AF1110562328A54BC
