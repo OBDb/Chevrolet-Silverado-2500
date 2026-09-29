@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221633
+test_cases:
+- expected_values:
+    CHEVROLET_BALANCE_RATE_CYL_5: -0.40625
+  response: 7E8056216337FE6
+- expected_values:
+    CHEVROLET_BALANCE_RATE_CYL_5: 0
+  response: '7E8056216338000'
+- expected_values:
+    CHEVROLET_BALANCE_RATE_CYL_5: 4
+  response: '7E8056216338100'
