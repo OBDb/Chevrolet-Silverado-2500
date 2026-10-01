@@ -1,0 +1,5 @@
+command_id: 241.641.224007
+test_cases:
+- expected_values:
+    CHEVROLET_TID_RR: 2426738
+  response: '6410762400700250772'

@@ -4,8 +4,8 @@ test_cases:
     CHEVROLET_FUEL_INJECTION_C8: 0
   response: 7E8056220B30000
 - expected_values:
+    CHEVROLET_FUEL_INJECTION_C8: 0.761
+  response: 7E8056220B302F9
+- expected_values:
     CHEVROLET_FUEL_INJECTION_C8: 0.769
   response: 7E8056220B30301
-- expected_values:
-    CHEVROLET_FUEL_INJECTION_C8: 1.016
-  response: 7E8056220B303F8

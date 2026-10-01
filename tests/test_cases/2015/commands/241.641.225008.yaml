@@ -1,0 +1,11 @@
+command_id: 241.641.225008
+test_cases:
+- expected_values:
+    CHEVROLET_TP_RL: 407
+  response: '641056250081970'
+- expected_values:
+    CHEVROLET_TP_RL: 431.75
+  response: 641056250081AFC
+- expected_values:
+    CHEVROLET_TP_RL: 448.25
+  response: 641056250081C04
