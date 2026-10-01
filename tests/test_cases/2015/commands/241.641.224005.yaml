@@ -1,0 +1,5 @@
+command_id: 241.641.224005
+test_cases:
+- expected_values:
+    CHEVROLET_TID_FL: 1882014082
+  response: 64107624005702D4182
