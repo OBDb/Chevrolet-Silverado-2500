@@ -1,0 +1,14 @@
+command_id: 7E2.7EA.221141
+test_cases:
+- expected_values:
+    CHEVROLET_IGN_V_V2: 0
+  response: 7EA0462114100
+- expected_values:
+    CHEVROLET_IGN_V_V2: 13.3
+  response: 7EA0462114185
+- expected_values:
+    CHEVROLET_IGN_V_V2: 13.9
+  response: 7EA046211418B
+- expected_values:
+    CHEVROLET_IGN_V_V2: 14
+  response: 7EA046211418C

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2220D0
+test_cases:
+- expected_values:
+    CHEVROLET_IGN_INPUT_ON_OFF_V2: 0
+  response: 7E8046220D000
+- expected_values:
+    CHEVROLET_IGN_INPUT_ON_OFF_V2: 64
+  response: 7E8046220D040
