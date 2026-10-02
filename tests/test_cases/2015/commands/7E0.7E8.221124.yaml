@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221124
+test_cases:
+- expected_values:
+    CHEVROLET_ECM_BRAKE_PEDAL_POS: 80
+  response: '7E80462112450'
+- expected_values:
+    CHEVROLET_ECM_BRAKE_PEDAL_POS: 248
+  response: 7E804621124F8

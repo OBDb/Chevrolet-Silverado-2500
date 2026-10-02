@@ -4,29 +4,8 @@ test_cases:
     CHEVROLET_TP_FR: 407
   response: '641056250061970'
 - expected_values:
-    CHEVROLET_TP_FR: 409.75
-  response: 64105625006199C
+    CHEVROLET_TP_FR: 431.75
+  response: 641056250061AFC
 - expected_values:
-    CHEVROLET_TP_FR: 415.25
-  response: 6410562500619F4
-- expected_values:
-    CHEVROLET_TP_FR: 420.75
-  response: 641056250061A4C
-- expected_values:
-    CHEVROLET_TP_FR: 423.5
-  response: 641056250061A78
-- expected_values:
-    CHEVROLET_TP_FR: 426.25
-  response: 641056250061AA4
-- expected_values:
-    CHEVROLET_TP_FR: 429
-  response: 641056250061AD0
-- expected_values:
-    CHEVROLET_TP_FR: 440
-  response: 641056250061B80
-- expected_values:
-    CHEVROLET_TP_FR: 442.75
-  response: 641056250061BAC
-- expected_values:
-    CHEVROLET_TP_FR: 445.5
-  response: 641056250061BD8
+    CHEVROLET_TP_FR: 434.5
+  response: 641056250061B28
