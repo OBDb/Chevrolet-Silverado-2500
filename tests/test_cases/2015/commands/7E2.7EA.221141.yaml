@@ -7,6 +7,9 @@ test_cases:
     CHEVROLET_IGN_V_V2: 13.3
   response: 7EA0462114185
 - expected_values:
+    CHEVROLET_IGN_V_V2: 13.4
+  response: 7EA0462114186
+- expected_values:
     CHEVROLET_IGN_V_V2: 13.5
   response: 7EA0462114187
 - expected_values:
@@ -24,3 +27,6 @@ test_cases:
 - expected_values:
     CHEVROLET_IGN_V_V2: 14
   response: 7EA046211418C
+- expected_values:
+    CHEVROLET_IGN_V_V2: 14.1
+  response: 7EA046211418D
