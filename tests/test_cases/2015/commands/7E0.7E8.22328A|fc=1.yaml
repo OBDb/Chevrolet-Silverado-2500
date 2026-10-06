@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22328A|fc=1
 test_cases:
 - expected_values:
-    CHEVROLET_BP_DES: 95.9
-  response: 7E80562328A2576
+    CHEVROLET_BP_DES: 92.2
+  response: 7E80562328A2404
 - expected_values:
     CHEVROLET_BP_DES: 115.2
   response: 7E80562328A2D00
