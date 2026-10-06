@@ -7,5 +7,8 @@ test_cases:
     CHEVROLET_TP_FR: 431.75
   response: 641056250061AFC
 - expected_values:
-    CHEVROLET_TP_FR: 434.5
-  response: 641056250061B28
+    CHEVROLET_TP_FR: 448.25
+  response: 641056250061C04
+- expected_values:
+    CHEVROLET_TP_FR: 464.75
+  response: 641056250061D0C
