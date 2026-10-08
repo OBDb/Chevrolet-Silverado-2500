@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2220AC|fc=1
+test_cases:
+- expected_values:
+    CHEVROLET_FUEL_INJECTION_C1: 0.664
+  response: 7E8056220AC0298
+- expected_values:
+    CHEVROLET_FUEL_INJECTION_C1: 1.306
+  response: 7E8056220AC051A
+- expected_values:
+    CHEVROLET_FUEL_INJECTION_C1: 1.497
+  response: 7E8056220AC05D9

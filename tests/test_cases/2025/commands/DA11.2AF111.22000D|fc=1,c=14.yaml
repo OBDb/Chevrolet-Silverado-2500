@@ -1,0 +1,17 @@
+command_id: DA11.2AF111.22000D|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_VSS_V2: 0
+  response: 142AF1110462000D00
+- expected_values:
+    CHEVROLET_VSS_V2: 6
+  response: 142AF1110462000D06
+- expected_values:
+    CHEVROLET_VSS_V2: 54
+  response: 142AF1110462000D36
+- expected_values:
+    CHEVROLET_VSS_V2: 90
+  response: 142AF1110462000D5A
+- expected_values:
+    CHEVROLET_VSS_V2: 94
+  response: 142AF1110462000D5E

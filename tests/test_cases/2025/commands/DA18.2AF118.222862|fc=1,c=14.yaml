@@ -1,0 +1,14 @@
+command_id: DA18.2AF118.222862|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_TRANS_P_V3: 5989
+  response: 142AF118056228621765
+- expected_values:
+    CHEVROLET_TRANS_P_V3: 8800
+  response: 142AF118056228622260
+- expected_values:
+    CHEVROLET_TRANS_P_V3: 9600
+  response: 142AF118056228622580
+- expected_values:
+    CHEVROLET_TRANS_P_V3: 12026
+  response: 142AF118056228622EFA
