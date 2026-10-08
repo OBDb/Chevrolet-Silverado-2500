@@ -1,0 +1,17 @@
+command_id: DA11.2AF111.2220E3|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_BP_ACT_DA11: 2.51
+  response: 142AF111056220E300FB
+- expected_values:
+    CHEVROLET_BP_ACT_DA11: 4.83
+  response: 142AF111056220E301E3
+- expected_values:
+    CHEVROLET_BP_ACT_DA11: 15.56
+  response: 142AF111056220E30614
+- expected_values:
+    CHEVROLET_BP_ACT_DA11: 25.67
+  response: 142AF111056220E30A07
+- expected_values:
+    CHEVROLET_BP_ACT_DA11: 69.04
+  response: 142AF111056220E31AF8

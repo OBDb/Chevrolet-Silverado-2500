@@ -1,0 +1,17 @@
+command_id: DA11.2AF111.221C1B|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_EOP_CALC_V2: 212
+  response: 142AF11104621C1B35
+- expected_values:
+    CHEVROLET_EOP_CALC_V2: 220
+  response: 142AF11104621C1B37
+- expected_values:
+    CHEVROLET_EOP_CALC_V2: 332
+  response: 142AF11104621C1B53
+- expected_values:
+    CHEVROLET_EOP_CALC_V2: 448
+  response: 142AF11104621C1B70
+- expected_values:
+    CHEVROLET_EOP_CALC_V2: 588
+  response: 142AF11104621C1B93

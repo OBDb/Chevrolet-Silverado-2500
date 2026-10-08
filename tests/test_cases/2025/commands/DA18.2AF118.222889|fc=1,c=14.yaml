@@ -1,0 +1,8 @@
+command_id: DA18.2AF118.222889|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_GEAR_POS: 8
+  response: 142AF1180462288908
+- expected_values:
+    CHEVROLET_GEAR_POS: 20
+  response: 142AF1180462288914

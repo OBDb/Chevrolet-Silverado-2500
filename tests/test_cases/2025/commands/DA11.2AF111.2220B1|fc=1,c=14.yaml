@@ -1,0 +1,17 @@
+command_id: DA11.2AF111.2220B1|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_FUEL_INJ_CYL_6: 0.1299
+  response: 142AF111056220B10513
+- expected_values:
+    CHEVROLET_FUEL_INJ_CYL_6: 0.1359
+  response: 142AF111056220B1054F
+- expected_values:
+    CHEVROLET_FUEL_INJ_CYL_6: 0.2625
+  response: 142AF111056220B10A41
+- expected_values:
+    CHEVROLET_FUEL_INJ_CYL_6: 0.2687
+  response: 142AF111056220B10A7F
+- expected_values:
+    CHEVROLET_FUEL_INJ_CYL_6: 0.2861
+  response: 142AF111056220B10B2D
