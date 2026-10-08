@@ -1,0 +1,11 @@
+command_id: DA11.2AF111.2211A1|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_RUNTM_V2: 83
+  response: 142AF111056211A10053
+- expected_values:
+    CHEVROLET_RUNTM_V2: 206
+  response: 142AF111056211A100CE
+- expected_values:
+    CHEVROLET_RUNTM_V2: 320
+  response: 142AF111056211A10140

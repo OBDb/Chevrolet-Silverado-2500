@@ -1,0 +1,11 @@
+command_id: DA11.2AF111.222345|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_EOP_ACT_V2: 332
+  response: 142AF1110462234553
+- expected_values:
+    CHEVROLET_EOP_ACT_V2: 448
+  response: 142AF1110462234570
+- expected_values:
+    CHEVROLET_EOP_ACT_V2: 584
+  response: 142AF1110462234592

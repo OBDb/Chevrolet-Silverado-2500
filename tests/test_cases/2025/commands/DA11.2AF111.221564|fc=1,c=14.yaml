@@ -1,0 +1,11 @@
+command_id: DA11.2AF111.221564|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_AC_HIGH_SIDE_P_V2: 70.7
+  response: 142AF1110462156423
+- expected_values:
+    CHEVROLET_AC_HIGH_SIDE_P_V2: 80.8
+  response: 142AF1110462156428
+- expected_values:
+    CHEVROLET_AC_HIGH_SIDE_P_V2: 84.84
+  response: 142AF111046215642A
