@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22000D
+test_cases:
+- expected_values:
+    CHEVROLET_VSS: 0
+  response: 7E80462000D00
+- expected_values:
+    CHEVROLET_VSS: 13
+  response: 7E80462000D0D
+- expected_values:
+    CHEVROLET_VSS: 20
+  response: 7E80462000D14
+- expected_values:
+    CHEVROLET_VSS: 30
+  response: 7E80462000D1E
+- expected_values:
+    CHEVROLET_VSS: 38
+  response: 7E80462000D26
