@@ -1,0 +1,14 @@
+command_id: DA40.40.22448F
+test_cases:
+- expected_values:
+    CHEVROLET_ODO_V2: 48293.59375
+  response: 18DAF1400762448F002F2966
+- expected_values:
+    CHEVROLET_ODO_V2: 48296.64062
+  response: 18DAF1400762448F002F2A29
+- expected_values:
+    CHEVROLET_ODO_V2: 48335.51562
+  response: 18DAF1400762448F002F33E1
+- expected_values:
+    CHEVROLET_ODO_V2: 48372.9375
+  response: 18DAF1400762448F002F3D3C
