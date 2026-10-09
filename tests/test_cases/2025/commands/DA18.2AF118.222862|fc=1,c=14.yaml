@@ -1,0 +1,32 @@
+command_id: DA18.2AF118.222862|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_TRANS_P_V3: 5600
+  response: 142AF1180562286215E0
+- expected_values:
+    CHEVROLET_TRANS_P_V3: 5989
+  response: 142AF118056228621765
+- expected_values:
+    CHEVROLET_TRANS_P_V3: 6271
+  response: 142AF11805622862187F
+- expected_values:
+    CHEVROLET_TRANS_P_V3: 7788
+  response: 142AF118056228621E6C
+- expected_values:
+    CHEVROLET_TRANS_P_V3: 8800
+  response: 142AF118056228622260
+- expected_values:
+    CHEVROLET_TRANS_P_V3: 9600
+  response: 142AF118056228622580
+- expected_values:
+    CHEVROLET_TRANS_P_V3: 11200
+  response: 142AF118056228622BC0
+- expected_values:
+    CHEVROLET_TRANS_P_V3: 11495
+  response: 142AF118056228622CE7
+- expected_values:
+    CHEVROLET_TRANS_P_V3: 12026
+  response: 142AF118056228622EFA
+- expected_values:
+    CHEVROLET_TRANS_P_V3: 14128
+  response: 142AF118056228623730

@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2230AD|fc=1
+test_cases:
+- expected_values:
+    CHEVROLET_CHARGE_AIR_COOLER_T_SNS_1: 41
+  response: 7E8046230AD51
+- expected_values:
+    CHEVROLET_CHARGE_AIR_COOLER_T_SNS_1: 42
+  response: 7E8046230AD52
+- expected_values:
+    CHEVROLET_CHARGE_AIR_COOLER_T_SNS_1: 43
+  response: 7E8046230AD53
+- expected_values:
+    CHEVROLET_CHARGE_AIR_COOLER_T_SNS_1: 45
+  response: 7E8046230AD55
+- expected_values:
+    CHEVROLET_CHARGE_AIR_COOLER_T_SNS_1: 47
+  response: 7E8046230AD57
+- expected_values:
+    CHEVROLET_CHARGE_AIR_COOLER_T_SNS_1: 48
+  response: 7E8046230AD58
+- expected_values:
+    CHEVROLET_CHARGE_AIR_COOLER_T_SNS_1: 54
+  response: 7E8046230AD5E
+- expected_values:
+    CHEVROLET_CHARGE_AIR_COOLER_T_SNS_1: 56
+  response: 7E8046230AD60
