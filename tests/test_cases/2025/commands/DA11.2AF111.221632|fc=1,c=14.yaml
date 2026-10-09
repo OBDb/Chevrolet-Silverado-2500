@@ -1,0 +1,5 @@
+command_id: DA11.2AF111.221632|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_BALANCE_RATE_CYL_4_V2: 0
+  response: 142AF111056216328000
