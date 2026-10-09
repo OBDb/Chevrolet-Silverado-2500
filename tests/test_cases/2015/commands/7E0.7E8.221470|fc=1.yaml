@@ -4,5 +4,5 @@ test_cases:
     CHEVROLET_EOP_DA11: 4
   response: '7E80462147001'
 - expected_values:
-    CHEVROLET_EOP_DA11: 532
-  response: '7E80462147085'
+    CHEVROLET_EOP_DA11: 572
+  response: 7E8046214708F

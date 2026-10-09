@@ -1,0 +1,8 @@
+command_id: DA11.2AF111.221940|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_ATF_T_VAR_1_V2: 26
+  response: 142AF1110462194042
+- expected_values:
+    CHEVROLET_ATF_T_VAR_1_V2: 61
+  response: 142AF1110462194065
