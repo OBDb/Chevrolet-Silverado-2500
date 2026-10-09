@@ -1,0 +1,11 @@
+command_id: DA18.2AF118.221942|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_OUTPUT_SHFT_SPD_V3: 0
+  response: 142AF118056219420000
+- expected_values:
+    CHEVROLET_OUTPUT_SHFT_SPD_V3: 125.25
+  response: 142AF1180562194201F5
+- expected_values:
+    CHEVROLET_OUTPUT_SHFT_SPD_V3: 3960
+  response: 142AF118056219423DE0

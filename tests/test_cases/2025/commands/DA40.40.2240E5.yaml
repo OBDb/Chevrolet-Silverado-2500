@@ -1,0 +1,14 @@
+command_id: DA40.40.2240E5
+test_cases:
+- expected_values:
+    CHEVROLET_HVBAT_COOL_T1: 25.9375
+  response: 18DAF140056240E5033E
+- expected_values:
+    CHEVROLET_HVBAT_COOL_T1: 31.25
+  response: 18DAF140056240E503E8
+- expected_values:
+    CHEVROLET_HVBAT_COOL_T1: 32.1875
+  response: 18DAF140056240E50406
+- expected_values:
+    CHEVROLET_HVBAT_COOL_T1: 42.1875
+  response: 18DAF140056240E50546

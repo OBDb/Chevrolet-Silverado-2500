@@ -1,0 +1,23 @@
+command_id: 7E2.7EA.22295A|fc=1
+test_cases:
+- expected_values:
+    CHEVROLET_TF_T_FLTED: 56
+  response: 7EA0462295A60
+- expected_values:
+    CHEVROLET_TF_T_FLTED: 58
+  response: 7EA0462295A62
+- expected_values:
+    CHEVROLET_TF_T_FLTED: 59
+  response: 7EA0462295A63
+- expected_values:
+    CHEVROLET_TF_T_FLTED: 60
+  response: 7EA0462295A64
+- expected_values:
+    CHEVROLET_TF_T_FLTED: 61
+  response: 7EA0462295A65
+- expected_values:
+    CHEVROLET_TF_T_FLTED: 62
+  response: 7EA0462295A66
+- expected_values:
+    CHEVROLET_TF_T_FLTED: 63
+  response: 7EA0462295A67
