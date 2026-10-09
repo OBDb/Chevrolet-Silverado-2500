@@ -1,0 +1,8 @@
+command_id: DA11.2AF111.222344|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_EOP_ABS_2: 300
+  response: 142AF111046223444B
+- expected_values:
+    CHEVROLET_EOP_ABS_2: 680
+  response: 142AF11104622344AA
