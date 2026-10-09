@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22005E|fc=1
+test_cases:
+- expected_values:
+    CHEVROLET_FUEL_RATE: 1.1
+  response: 7E80562005E0016
+- expected_values:
+    CHEVROLET_FUEL_RATE: 1.15
+  response: 7E80562005E0017
+- expected_values:
+    CHEVROLET_FUEL_RATE: 1.3
+  response: 7E80562005E001A
+- expected_values:
+    CHEVROLET_FUEL_RATE: 1.75
+  response: 7E80562005E0023
+- expected_values:
+    CHEVROLET_FUEL_RATE: 8.15
+  response: 7E80562005E00A3
+- expected_values:
+    CHEVROLET_FUEL_RATE: 9
+  response: 7E80562005E00B4
+- expected_values:
+    CHEVROLET_FUEL_RATE: 10.4
+  response: 7E80562005E00D0

@@ -1,0 +1,14 @@
+command_id: DA11.2AF111.220042|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_CTRL_MODULE_V_V2: 12.464
+  response: 142AF1110562004230B0
+- expected_values:
+    CHEVROLET_CTRL_MODULE_V_V2: 12.582
+  response: 142AF111056200423126
+- expected_values:
+    CHEVROLET_CTRL_MODULE_V_V2: 13.625
+  response: 142AF111056200423539
+- expected_values:
+    CHEVROLET_CTRL_MODULE_V_V2: 13.8
+  response: 142AF1110562004235E8

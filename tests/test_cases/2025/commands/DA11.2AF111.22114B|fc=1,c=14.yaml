@@ -1,0 +1,8 @@
+command_id: DA11.2AF111.22114B|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_EGR_V_V2: 1.09804
+  response: 142AF1110462114B38
+- expected_values:
+    CHEVROLET_EGR_V_V2: 1.82353
+  response: 142AF1110462114B5D
