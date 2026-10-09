@@ -1,0 +1,32 @@
+command_id: DA11.2AF111.220042|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_CTRL_MODULE_V_V2: 12.464
+  response: 142AF1110562004230B0
+- expected_values:
+    CHEVROLET_CTRL_MODULE_V_V2: 12.582
+  response: 142AF111056200423126
+- expected_values:
+    CHEVROLET_CTRL_MODULE_V_V2: 12.906
+  response: 142AF11105620042326A
+- expected_values:
+    CHEVROLET_CTRL_MODULE_V_V2: 13.165
+  response: 142AF11105620042336D
+- expected_values:
+    CHEVROLET_CTRL_MODULE_V_V2: 13.658
+  response: 142AF11105620042355A
+- expected_values:
+    CHEVROLET_CTRL_MODULE_V_V2: 13.703
+  response: 142AF111056200423587
+- expected_values:
+    CHEVROLET_CTRL_MODULE_V_V2: 13.715
+  response: 142AF111056200423593
+- expected_values:
+    CHEVROLET_CTRL_MODULE_V_V2: 13.729
+  response: 142AF1110562004235A1
+- expected_values:
+    CHEVROLET_CTRL_MODULE_V_V2: 13.774
+  response: 142AF1110562004235CE
+- expected_values:
+    CHEVROLET_CTRL_MODULE_V_V2: 13.8
+  response: 142AF1110562004235E8

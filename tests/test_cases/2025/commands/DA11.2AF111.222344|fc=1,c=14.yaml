@@ -1,0 +1,29 @@
+command_id: DA11.2AF111.222344|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_EOP_ABS_2: 316
+  response: 142AF111046223444F
+- expected_values:
+    CHEVROLET_EOP_ABS_2: 320
+  response: 142AF1110462234450
+- expected_values:
+    CHEVROLET_EOP_ABS_2: 332
+  response: 142AF1110462234453
+- expected_values:
+    CHEVROLET_EOP_ABS_2: 336
+  response: 142AF1110462234454
+- expected_values:
+    CHEVROLET_EOP_ABS_2: 384
+  response: 142AF1110462234460
+- expected_values:
+    CHEVROLET_EOP_ABS_2: 436
+  response: 142AF111046223446D
+- expected_values:
+    CHEVROLET_EOP_ABS_2: 448
+  response: 142AF1110462234470
+- expected_values:
+    CHEVROLET_EOP_ABS_2: 556
+  response: 142AF111046223448B
+- expected_values:
+    CHEVROLET_EOP_ABS_2: 680
+  response: 142AF11104622344AA

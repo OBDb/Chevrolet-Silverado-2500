@@ -1,0 +1,32 @@
+command_id: DA11.2AF111.221154|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_EOT_CALC_V2: 23
+  response: 142AF111046211543F
+- expected_values:
+    CHEVROLET_EOT_CALC_V2: 40
+  response: 142AF1110462115450
+- expected_values:
+    CHEVROLET_EOT_CALC_V2: 45
+  response: 142AF1110462115455
+- expected_values:
+    CHEVROLET_EOT_CALC_V2: 52
+  response: 142AF111046211545C
+- expected_values:
+    CHEVROLET_EOT_CALC_V2: 55
+  response: 142AF111046211545F
+- expected_values:
+    CHEVROLET_EOT_CALC_V2: 57
+  response: 142AF1110462115461
+- expected_values:
+    CHEVROLET_EOT_CALC_V2: 64
+  response: 142AF1110462115468
+- expected_values:
+    CHEVROLET_EOT_CALC_V2: 78
+  response: 142AF1110462115476
+- expected_values:
+    CHEVROLET_EOT_CALC_V2: 80
+  response: 142AF1110462115478
+- expected_values:
+    CHEVROLET_EOT_CALC_V2: 83
+  response: 142AF111046211547B

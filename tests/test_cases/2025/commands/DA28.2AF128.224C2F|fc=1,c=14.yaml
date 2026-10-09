@@ -1,0 +1,23 @@
+command_id: DA28.2AF128.224C2F|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_LAT_G: 0
+  response: 142AF12805624C2F0000
+- expected_values:
+    CHEVROLET_LAT_G: 0.00637
+  response: 142AF12805624C2F0004
+- expected_values:
+    CHEVROLET_LAT_G: 0.01274
+  response: 142AF12805624C2F0008
+- expected_values:
+    CHEVROLET_LAT_G: 0.03186
+  response: 142AF12805624C2F0014
+- expected_values:
+    CHEVROLET_LAT_G: 0.0446
+  response: 142AF12805624C2F001C
+- expected_values:
+    CHEVROLET_LAT_G: 0.06371
+  response: 142AF12805624C2F0028
+- expected_values:
+    CHEVROLET_LAT_G: 0.09557
+  response: 142AF12805624C2F003C
