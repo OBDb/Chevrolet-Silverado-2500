@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     CHEVROLET_ODO: 48588.32812
   response: 142AF11A0762448F002F7315
+- expected_values:
+    CHEVROLET_ODO: 48613.98438
+  response: 142AF11A0762448F002F797F
