@@ -1,8 +1,8 @@
 command_id: DA11.2AF111.222345|fc=1,c=14
 test_cases:
 - expected_values:
-    CHEVROLET_EOP_ACT_V2: 200
-  response: 142AF1110462234532
+    SILVERADO_2500_EOP_ACT: 0
+  response: 142AF1110462234500
 - expected_values:
-    CHEVROLET_EOP_ACT_V2: 584
+    SILVERADO_2500_EOP_ACT: 584
   response: 142AF1110462234592

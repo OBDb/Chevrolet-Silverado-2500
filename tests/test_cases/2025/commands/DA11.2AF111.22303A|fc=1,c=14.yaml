@@ -1,14 +1,14 @@
 command_id: DA11.2AF111.22303A|fc=1,c=14
 test_cases:
 - expected_values:
-    CHEVROLET_DPF_EGT_1: 60.5
+    SILVERADO_DPF_EGT_1: 60.5
   response: 142AF1110562303A03ED
 - expected_values:
-    CHEVROLET_DPF_EGT_1: 139.1
+    SILVERADO_DPF_EGT_1: 139.1
   response: 142AF1110562303A06FF
 - expected_values:
-    CHEVROLET_DPF_EGT_1: 164.8
+    SILVERADO_DPF_EGT_1: 164.8
   response: 142AF1110562303A0800
 - expected_values:
-    CHEVROLET_DPF_EGT_1: 418.8
+    SILVERADO_DPF_EGT_1: 418.8
   response: 142AF1110562303A11EC

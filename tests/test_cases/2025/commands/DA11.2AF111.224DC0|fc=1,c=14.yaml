@@ -1,5 +1,5 @@
 command_id: DA11.2AF111.224DC0|fc=1,c=14
 test_cases:
 - expected_values:
-    CHEVROLET_EO_LIFE_REMAINING_DA11: 0
+    SILVERADO_2500_EO_LIFE_REMAINING_DA11: 0
   response: 142AF11104624DC000

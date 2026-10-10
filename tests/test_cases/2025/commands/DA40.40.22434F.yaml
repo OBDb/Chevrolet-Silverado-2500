@@ -1,8 +1,0 @@
-command_id: DA40.40.22434F
-test_cases:
-- expected_values:
-    CHEVROLET_HVBAT_T: -5
-  response: 18DAF1400462434F23
-- expected_values:
-    CHEVROLET_HVBAT_T: 60
-  response: 18DAF1400462434F64

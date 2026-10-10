@@ -1,14 +1,14 @@
 command_id: 241.641.225005
 test_cases:
 - expected_values:
-    CHEVROLET_TP_FL: 475.75
+    SILVERADO_2500_TP_FL: 475.75
   response: 641056250051DBC
 - expected_values:
-    CHEVROLET_TP_FL: 511.5
+    SILVERADO_2500_TP_FL: 511.5
   response: 641056250051FF8
 - expected_values:
-    CHEVROLET_TP_FL: 528
+    SILVERADO_2500_TP_FL: 528
   response: '641056250052100'
 - expected_values:
-    CHEVROLET_TP_FL: 544.5
+    SILVERADO_2500_TP_FL: 544.5
   response: '641056250052208'

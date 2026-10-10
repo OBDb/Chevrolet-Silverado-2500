@@ -1,5 +1,5 @@
 command_id: DA11.2AF111.221207|fc=1,c=14
 test_cases:
 - expected_values:
-    CHEVROLET_MISFIRES_C3_CUR_DA11: 0
+    SILVERADO_2500_MISFIRES_C3_CUR_DA11: 0
   response: 142AF1110462120700

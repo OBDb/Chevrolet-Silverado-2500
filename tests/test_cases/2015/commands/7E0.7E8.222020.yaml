@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.222020
 test_cases:
 - expected_values:
-    CHEVROLET_MIL_STAT: 0
+    SILVERADO_MIL_STAT: 0
   response: '7E80462202000'
 - expected_values:
-    CHEVROLET_MIL_STAT: 160
+    SILVERADO_MIL_STAT: 160
   response: 7E804622020A0

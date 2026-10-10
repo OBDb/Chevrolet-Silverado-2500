@@ -1,11 +1,11 @@
 command_id: 7E2.7EA.221941
 test_cases:
 - expected_values:
-    CHEVROLET_TRANS_ISS: 0
+    SILVERADO_2500_TRANS_ISS: 0
   response: 7EA056219410000
 - expected_values:
-    CHEVROLET_TRANS_ISS: 1279
+    SILVERADO_2500_TRANS_ISS: 1279
   response: 7EA0562194113FC
 - expected_values:
-    CHEVROLET_TRANS_ISS: 4087
+    SILVERADO_2500_TRANS_ISS: 4087
   response: 7EA056219413FDC

@@ -1,11 +1,11 @@
 command_id: DA28.2AF128.224C30|fc=1,c=14
 test_cases:
 - expected_values:
-    CHEVROLET_LNG_G: 0
+    SILVERADO_2500_LNG_G: 0
   response: 142AF12805624C300000
 - expected_values:
-    CHEVROLET_LNG_G: -0.05097
+    SILVERADO_2500_LNG_G: -0.05097
   response: 142AF12805624C30FFE0
 - expected_values:
-    CHEVROLET_LNG_G: -0.00637
+    SILVERADO_2500_LNG_G: -0.00637
   response: 142AF12805624C30FFFC

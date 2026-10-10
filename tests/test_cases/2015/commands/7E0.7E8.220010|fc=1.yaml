@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220010|fc=1
 test_cases:
 - expected_values:
-    CHEVROLET_MAF: 0
+    SILVERADO_2500_MAF: 0
   response: '7E8056200100000'
 - expected_values:
-    CHEVROLET_MAF: 99.83
+    SILVERADO_2500_MAF: 99.83
   response: 7E80562001026FF
 - expected_values:
-    CHEVROLET_MAF: 241.77
+    SILVERADO_2500_MAF: 241.77
   response: 7E8056200105E71

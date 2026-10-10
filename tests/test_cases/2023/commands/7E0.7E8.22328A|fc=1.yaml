@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22328A|fc=1
 test_cases:
 - expected_values:
-    CHEVROLET_BP_DES: 101.19
+    SILVERADO_2500_BP_DES: 101.19
   response: 7E80562328A2787
 - expected_values:
-    CHEVROLET_BP_DES: 102.34
+    SILVERADO_2500_BP_DES: 102.34
   response: 7E80562328A27FA
 - expected_values:
-    CHEVROLET_BP_DES: 102.47
+    SILVERADO_2500_BP_DES: 102.47
   response: 7E80562328A2807
 - expected_values:
-    CHEVROLET_BP_DES: 122.63
+    SILVERADO_2500_BP_DES: 122.63
   response: 7E80562328A2FE7

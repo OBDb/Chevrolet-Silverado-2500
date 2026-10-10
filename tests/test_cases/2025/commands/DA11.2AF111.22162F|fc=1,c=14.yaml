@@ -1,5 +1,5 @@
 command_id: DA11.2AF111.22162F|fc=1,c=14
 test_cases:
 - expected_values:
-    CHEVROLET_BALANCE_RATE_CYL_1_V2: 0
+    SILVERADO_BALANCE_RATE_CYL_1_V2: 0
   response: 142AF1110562162F8000

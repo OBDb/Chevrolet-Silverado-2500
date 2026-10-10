@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22207E
 test_cases:
 - expected_values:
-    CHEVROLET_IGN_POWER_MODE_V2: 0
+    SILVERADO_IGN_POWER_MODE_V2: 0
   response: 7E80462207E00
 - expected_values:
-    CHEVROLET_IGN_POWER_MODE_V2: 2
+    SILVERADO_IGN_POWER_MODE_V2: 2
   response: 7E80462207E02

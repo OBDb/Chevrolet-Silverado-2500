@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.22005C|fc=1
 test_cases:
 - expected_values:
-    CHEVROLET_EOT: -40
+    SILVERADO_2500_EOT: -40
   response: 7E80462005C00

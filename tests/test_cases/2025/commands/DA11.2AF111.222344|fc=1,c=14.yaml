@@ -1,8 +1,8 @@
 command_id: DA11.2AF111.222344|fc=1,c=14
 test_cases:
 - expected_values:
-    CHEVROLET_EOP_ABS_2: 300
-  response: 142AF111046223444B
+    SILVERADO_2500_EOP_ABS_2: 92
+  response: 142AF1110462234417
 - expected_values:
-    CHEVROLET_EOP_ABS_2: 680
+    SILVERADO_2500_EOP_ABS_2: 680
   response: 142AF11104622344AA

@@ -1,8 +1,8 @@
 command_id: DA11.2AF111.221564|fc=1,c=14
 test_cases:
 - expected_values:
-    CHEVROLET_AC_HIGH_SIDE_P_V2: 62.62
+    SILVERADO_AC_HIGH_SIDE_P_V2: 62.62
   response: 142AF111046215641F
 - expected_values:
-    CHEVROLET_AC_HIGH_SIDE_P_V2: 153.52
+    SILVERADO_AC_HIGH_SIDE_P_V2: 153.52
   response: 142AF111046215644C

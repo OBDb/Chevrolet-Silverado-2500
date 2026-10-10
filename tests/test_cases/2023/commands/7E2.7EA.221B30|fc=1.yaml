@@ -1,14 +1,14 @@
 command_id: 7E2.7EA.221B30|fc=1
 test_cases:
 - expected_values:
-    CHEVROLET_CURRENT_GEAR: -1
+    SILVERADO_2500_CURRENT_GEAR: -1
   response: 7EA04621B3002
 - expected_values:
-    CHEVROLET_CURRENT_GEAR: 2
+    SILVERADO_2500_CURRENT_GEAR: 2
   response: 7EA04621B3005
 - expected_values:
-    CHEVROLET_CURRENT_GEAR: 3
+    SILVERADO_2500_CURRENT_GEAR: 3
   response: 7EA04621B3006
 - expected_values:
-    CHEVROLET_CURRENT_GEAR: 8
+    SILVERADO_2500_CURRENT_GEAR: 8
   response: 7EA04621B300B

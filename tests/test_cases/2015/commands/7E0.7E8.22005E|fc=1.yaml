@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22005E|fc=1
 test_cases:
 - expected_values:
-    CHEVROLET_FUEL_RATE: 0
+    SILVERADO_2500_FUEL_RATE: 0
   response: 7E80562005E0000
 - expected_values:
-    CHEVROLET_FUEL_RATE: 12.55
+    SILVERADO_2500_FUEL_RATE: 12.55
   response: 7E80562005E00FB
 - expected_values:
-    CHEVROLET_FUEL_RATE: 25.8
+    SILVERADO_2500_FUEL_RATE: 25.8
   response: 7E80562005E0204
