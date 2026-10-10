@@ -4,8 +4,8 @@ test_cases:
     CHEVROLET_HVBAT_COOL_T2: 12.5625
   response: 18DAF140056240E60192
 - expected_values:
+    CHEVROLET_HVBAT_COOL_T2: 14.78125
+  response: 18DAF140056240E601D9
+- expected_values:
     CHEVROLET_HVBAT_COOL_T2: 18.6875
   response: 18DAF140056240E60256
-- expected_values:
-    CHEVROLET_HVBAT_COOL_T2: 22.75
-  response: 18DAF140056240E602D8

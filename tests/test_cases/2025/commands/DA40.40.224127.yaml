@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CHEVROLET_HVBAT_T_A: 20
   response: 18DAF140056241270280
+- expected_values:
+    CHEVROLET_HVBAT_T_A: 32.75
+  response: 18DAF140056241270418
