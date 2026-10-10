@@ -1,0 +1,32 @@
+command_id: DA11.2AF111.221141|fc=1,c=14
+test_cases:
+- expected_values:
+    CHEVROLET_IGN_1_V_V2: 12.4
+  response: 142AF111046211417C
+- expected_values:
+    CHEVROLET_IGN_1_V_V2: 12.5
+  response: 142AF111046211417D
+- expected_values:
+    CHEVROLET_IGN_1_V_V2: 12.6
+  response: 142AF111046211417E
+- expected_values:
+    CHEVROLET_IGN_1_V_V2: 12.8
+  response: 142AF1110462114180
+- expected_values:
+    CHEVROLET_IGN_1_V_V2: 13.1
+  response: 142AF1110462114183
+- expected_values:
+    CHEVROLET_IGN_1_V_V2: 13.2
+  response: 142AF1110462114184
+- expected_values:
+    CHEVROLET_IGN_1_V_V2: 13.5
+  response: 142AF1110462114187
+- expected_values:
+    CHEVROLET_IGN_1_V_V2: 13.6
+  response: 142AF1110462114188
+- expected_values:
+    CHEVROLET_IGN_1_V_V2: 13.7
+  response: 142AF1110462114189
+- expected_values:
+    CHEVROLET_IGN_1_V_V2: 13.8
+  response: 142AF111046211418A

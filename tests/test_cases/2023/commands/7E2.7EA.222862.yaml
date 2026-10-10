@@ -1,0 +1,17 @@
+command_id: 7E2.7EA.222862
+test_cases:
+- expected_values:
+    CHEVROLET_TRANS_P: 8000
+  response: 7EA056228621F40
+- expected_values:
+    CHEVROLET_TRANS_P: 8800
+  response: 7EA056228622260
+- expected_values:
+    CHEVROLET_TRANS_P: 10602
+  response: 7EA05622862296A
+- expected_values:
+    CHEVROLET_TRANS_P: 11200
+  response: 7EA056228622BC0
+- expected_values:
+    CHEVROLET_TRANS_P: 23994
+  response: 7EA056228625DBA
