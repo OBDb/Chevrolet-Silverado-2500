@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22002F|fc=1
+test_cases:
+- expected_values:
+    CHEVROLET_FLI: 23.13725
+  response: 7E80462002F3B
+- expected_values:
+    CHEVROLET_FLI: 28.23529
+  response: 7E80462002F48
+- expected_values:
+    CHEVROLET_FLI: 28.62745
+  response: 7E80462002F49
+- expected_values:
+    CHEVROLET_FLI: 29.01961
+  response: 7E80462002F4A
