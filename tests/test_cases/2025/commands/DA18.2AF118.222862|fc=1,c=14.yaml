@@ -1,11 +1,11 @@
 command_id: DA18.2AF118.222862|fc=1,c=14
 test_cases:
 - expected_values:
-    SILVERADO_TRANS_P_V3: 4704
+    CHEVROLET_TRANS_P_V3: 4704
   response: 142AF118056228621260
 - expected_values:
-    SILVERADO_TRANS_P_V3: 12026
+    CHEVROLET_TRANS_P_V3: 12026
   response: 142AF118056228622EFA
 - expected_values:
-    SILVERADO_TRANS_P_V3: 17668
+    CHEVROLET_TRANS_P_V3: 17668
   response: 142AF118056228624504
