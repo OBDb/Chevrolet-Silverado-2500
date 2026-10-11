@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.223372|fc=1
 test_cases:
 - expected_values:
-    CHEVROLET_PARTICULATE_MATTER_SNS_T_V2: 40
+    SILVERADO_PARTICULATE_MATTER_SNS_T_V2: 40
   response: '7E8056233720190'

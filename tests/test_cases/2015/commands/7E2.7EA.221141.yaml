@@ -1,32 +1,32 @@
 command_id: 7E2.7EA.221141
 test_cases:
 - expected_values:
-    CHEVROLET_IGN_V_V2: 0
+    SILVERADO_IGN_V_V2: 0
   response: 7EA0462114100
 - expected_values:
-    CHEVROLET_IGN_V_V2: 13.3
+    SILVERADO_IGN_V_V2: 13.3
   response: 7EA0462114185
 - expected_values:
-    CHEVROLET_IGN_V_V2: 13.4
+    SILVERADO_IGN_V_V2: 13.4
   response: 7EA0462114186
 - expected_values:
-    CHEVROLET_IGN_V_V2: 13.5
+    SILVERADO_IGN_V_V2: 13.5
   response: 7EA0462114187
 - expected_values:
-    CHEVROLET_IGN_V_V2: 13.6
+    SILVERADO_IGN_V_V2: 13.6
   response: 7EA0462114188
 - expected_values:
-    CHEVROLET_IGN_V_V2: 13.7
+    SILVERADO_IGN_V_V2: 13.7
   response: 7EA0462114189
 - expected_values:
-    CHEVROLET_IGN_V_V2: 13.8
+    SILVERADO_IGN_V_V2: 13.8
   response: 7EA046211418A
 - expected_values:
-    CHEVROLET_IGN_V_V2: 13.9
+    SILVERADO_IGN_V_V2: 13.9
   response: 7EA046211418B
 - expected_values:
-    CHEVROLET_IGN_V_V2: 14
+    SILVERADO_IGN_V_V2: 14
   response: 7EA046211418C
 - expected_values:
-    CHEVROLET_IGN_V_V2: 14.1
+    SILVERADO_IGN_V_V2: 14.1
   response: 7EA046211418D

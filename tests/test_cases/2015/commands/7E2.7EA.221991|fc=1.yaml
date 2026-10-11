@@ -1,11 +1,11 @@
 command_id: 7E2.7EA.221991|fc=1
 test_cases:
 - expected_values:
-    CHEVROLET_TC_SLIP_VSS: 0
+    SILVERADO_2500_TC_SLIP_VSS: 0
   response: 7EA056219910000
 - expected_values:
-    CHEVROLET_TC_SLIP_VSS: -5.75
+    SILVERADO_2500_TC_SLIP_VSS: -5.75
   response: 7EA05621991FFD2
 - expected_values:
-    CHEVROLET_TC_SLIP_VSS: -0.125
+    SILVERADO_2500_TC_SLIP_VSS: -0.125
   response: 7EA05621991FFFF

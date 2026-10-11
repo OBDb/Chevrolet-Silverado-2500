@@ -1,20 +1,20 @@
 command_id: 7E2.7EA.221940
 test_cases:
 - expected_values:
-    CHEVROLET_ATF_T: 57
+    SILVERADO_2500_ATF_T: 57
   response: 7EA0462194061
 - expected_values:
-    CHEVROLET_ATF_T: 59
+    SILVERADO_2500_ATF_T: 59
   response: 7EA0462194063
 - expected_values:
-    CHEVROLET_ATF_T: 60
+    SILVERADO_2500_ATF_T: 60
   response: 7EA0462194064
 - expected_values:
-    CHEVROLET_ATF_T: 61
+    SILVERADO_2500_ATF_T: 61
   response: 7EA0462194065
 - expected_values:
-    CHEVROLET_ATF_T: 62
+    SILVERADO_2500_ATF_T: 62
   response: 7EA0462194066
 - expected_values:
-    CHEVROLET_ATF_T: 63
+    SILVERADO_2500_ATF_T: 63
   response: 7EA0462194067

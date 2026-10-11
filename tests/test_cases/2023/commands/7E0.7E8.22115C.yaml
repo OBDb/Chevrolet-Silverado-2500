@@ -1,23 +1,23 @@
 command_id: 7E0.7E8.22115C
 test_cases:
 - expected_values:
-    CHEVROLET_EOP_2: 27.6
+    SILVERADO_2500_EOP_2: 27.6
   response: 7E80462115C52
 - expected_values:
-    CHEVROLET_EOP_2: 28.2
+    SILVERADO_2500_EOP_2: 28.2
   response: 7E80462115C53
 - expected_values:
-    CHEVROLET_EOP_2: 28.8
+    SILVERADO_2500_EOP_2: 28.8
   response: 7E80462115C54
 - expected_values:
-    CHEVROLET_EOP_2: 29.4
+    SILVERADO_2500_EOP_2: 29.4
   response: 7E80462115C55
 - expected_values:
-    CHEVROLET_EOP_2: 31.2
+    SILVERADO_2500_EOP_2: 31.2
   response: 7E80462115C58
 - expected_values:
-    CHEVROLET_EOP_2: 33.6
+    SILVERADO_2500_EOP_2: 33.6
   response: 7E80462115C5C
 - expected_values:
-    CHEVROLET_EOP_2: 37.8
+    SILVERADO_2500_EOP_2: 37.8
   response: 7E80462115C63

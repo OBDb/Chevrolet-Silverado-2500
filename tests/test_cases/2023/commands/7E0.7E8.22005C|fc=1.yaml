@@ -1,20 +1,20 @@
 command_id: 7E0.7E8.22005C|fc=1
 test_cases:
 - expected_values:
-    CHEVROLET_EOT: 59
+    SILVERADO_2500_EOT: 59
   response: 7E80462005C63
 - expected_values:
-    CHEVROLET_EOT: 67
+    SILVERADO_2500_EOT: 67
   response: 7E80462005C6B
 - expected_values:
-    CHEVROLET_EOT: 73
+    SILVERADO_2500_EOT: 73
   response: 7E80462005C71
 - expected_values:
-    CHEVROLET_EOT: 79
+    SILVERADO_2500_EOT: 79
   response: 7E80462005C77
 - expected_values:
-    CHEVROLET_EOT: 81
+    SILVERADO_2500_EOT: 81
   response: 7E80462005C79
 - expected_values:
-    CHEVROLET_EOT: 83
+    SILVERADO_2500_EOT: 83
   response: 7E80462005C7B

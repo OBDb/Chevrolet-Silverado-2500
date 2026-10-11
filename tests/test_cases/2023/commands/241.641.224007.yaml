@@ -1,5 +1,5 @@
 command_id: 241.641.224007
 test_cases:
 - expected_values:
-    CHEVROLET_TID_RR: 1082907991
+    SILVERADO_2500_TID_RR: 1082907991
   response: 64107624007408BDD57

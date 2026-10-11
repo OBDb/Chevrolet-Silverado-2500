@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22115C
 test_cases:
 - expected_values:
-    CHEVROLET_EOP_2: -6
+    SILVERADO_2500_EOP_2: -6
   response: 7E80462115C1A
 - expected_values:
-    CHEVROLET_EOP_2: 72
+    SILVERADO_2500_EOP_2: 72
   response: 7E80462115C9C

@@ -1,8 +1,8 @@
 command_id: 7E2.7EA.221124
 test_cases:
 - expected_values:
-    CHEVROLET_BRAKE_PEDAL_POS_V2: 0
+    SILVERADO_BRAKE_PEDAL_POS_V2: 0
   response: 7EA0462112400
 - expected_values:
-    CHEVROLET_BRAKE_PEDAL_POS_V2: 8
+    SILVERADO_BRAKE_PEDAL_POS_V2: 8
   response: 7EA0462112408

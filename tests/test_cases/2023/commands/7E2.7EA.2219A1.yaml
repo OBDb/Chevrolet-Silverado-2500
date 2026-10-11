@@ -1,20 +1,20 @@
 command_id: 7E2.7EA.2219A1
 test_cases:
 - expected_values:
-    CHEVROLET_GEAR_RAT_V2: 0
+    SILVERADO_GEAR_RAT_V2: 0
   response: 7EA046219A100
 - expected_values:
-    CHEVROLET_GEAR_RAT_V2: 54
+    SILVERADO_GEAR_RAT_V2: 54
   response: 7EA046219A136
 - expected_values:
-    CHEVROLET_GEAR_RAT_V2: 131
+    SILVERADO_GEAR_RAT_V2: 131
   response: 7EA046219A183
 - expected_values:
-    CHEVROLET_GEAR_RAT_V2: 132
+    SILVERADO_GEAR_RAT_V2: 132
   response: 7EA046219A184
 - expected_values:
-    CHEVROLET_GEAR_RAT_V2: 182
+    SILVERADO_GEAR_RAT_V2: 182
   response: 7EA046219A1B6
 - expected_values:
-    CHEVROLET_GEAR_RAT_V2: 255
+    SILVERADO_GEAR_RAT_V2: 255
   response: 7EA046219A1FF

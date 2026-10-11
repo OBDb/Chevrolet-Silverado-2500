@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22135F
 test_cases:
 - expected_values:
-    CHEVROLET_MIL_CAUSE: 53
+    SILVERADO_MIL_CAUSE: 53
   response: 7E80462135F35
 - expected_values:
-    CHEVROLET_MIL_CAUSE: 61
+    SILVERADO_MIL_CAUSE: 61
   response: 7E80462135F3D

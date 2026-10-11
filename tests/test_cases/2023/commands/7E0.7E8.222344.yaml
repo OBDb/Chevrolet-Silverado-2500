@@ -1,29 +1,29 @@
 command_id: 7E0.7E8.222344
 test_cases:
 - expected_values:
-    CHEVROLET_EOP_ABS: 276
+    SILVERADO_2500_EOP_ABS: 276
   response: '7E80462234445'
 - expected_values:
-    CHEVROLET_EOP_ABS: 280
+    SILVERADO_2500_EOP_ABS: 280
   response: '7E80462234446'
 - expected_values:
-    CHEVROLET_EOP_ABS: 284
+    SILVERADO_2500_EOP_ABS: 284
   response: '7E80462234447'
 - expected_values:
-    CHEVROLET_EOP_ABS: 288
+    SILVERADO_2500_EOP_ABS: 288
   response: '7E80462234448'
 - expected_values:
-    CHEVROLET_EOP_ABS: 300
+    SILVERADO_2500_EOP_ABS: 300
   response: 7E8046223444B
 - expected_values:
-    CHEVROLET_EOP_ABS: 312
+    SILVERADO_2500_EOP_ABS: 312
   response: 7E8046223444E
 - expected_values:
-    CHEVROLET_EOP_ABS: 356
+    SILVERADO_2500_EOP_ABS: 356
   response: '7E80462234459'
 - expected_values:
-    CHEVROLET_EOP_ABS: 368
+    SILVERADO_2500_EOP_ABS: 368
   response: 7E8046223445C
 - expected_values:
-    CHEVROLET_EOP_ABS: 384
+    SILVERADO_2500_EOP_ABS: 384
   response: '7E80462234460'

@@ -1,26 +1,26 @@
 command_id: 7E0.7E8.2220E3|fc=1
 test_cases:
 - expected_values:
-    CHEVROLET_BP_ACT: 0
+    SILVERADO_2500_BP_ACT: 0
   response: 7E8056220E30000
 - expected_values:
-    CHEVROLET_BP_ACT: 0.1
+    SILVERADO_2500_BP_ACT: 0.1
   response: 7E8056220E3000A
 - expected_values:
-    CHEVROLET_BP_ACT: 0.3
+    SILVERADO_2500_BP_ACT: 0.3
   response: 7E8056220E3001E
 - expected_values:
-    CHEVROLET_BP_ACT: 0.5
+    SILVERADO_2500_BP_ACT: 0.5
   response: 7E8056220E30032
 - expected_values:
-    CHEVROLET_BP_ACT: 0.6
+    SILVERADO_2500_BP_ACT: 0.6
   response: 7E8056220E3003C
 - expected_values:
-    CHEVROLET_BP_ACT: 0.8
+    SILVERADO_2500_BP_ACT: 0.8
   response: 7E8056220E30050
 - expected_values:
-    CHEVROLET_BP_ACT: 1
+    SILVERADO_2500_BP_ACT: 1
   response: 7E8056220E30064
 - expected_values:
-    CHEVROLET_BP_ACT: 1.3
+    SILVERADO_2500_BP_ACT: 1.3
   response: 7E8056220E30082

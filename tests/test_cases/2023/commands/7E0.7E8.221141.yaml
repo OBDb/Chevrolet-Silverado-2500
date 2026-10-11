@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221141
 test_cases:
 - expected_values:
-    CHEVROLET_IGN_1_V: 13.6
+    SILVERADO_2500_IGN_1_V: 13.6
   response: '7E80462114188'
 - expected_values:
-    CHEVROLET_IGN_1_V: 13.7
+    SILVERADO_2500_IGN_1_V: 13.7
   response: '7E80462114189'
 - expected_values:
-    CHEVROLET_IGN_1_V: 14
+    SILVERADO_2500_IGN_1_V: 14
   response: 7E8046211418C
