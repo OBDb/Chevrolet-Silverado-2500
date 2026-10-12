@@ -159,7 +159,7 @@
   "signals": [
     {"id": "SILVERADO_2500_RUNTM", "path": "Clocks", "fmt": { "len": 16, "max": 65535, "unit": "seconds" }, "name": "Time since engine start"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11A6"}, "freq": 1, "dbgfilter": { "to": 2009, "from": 2011 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11A6"}, "freq": 1, "filter": { "to": 2014 }, "dbgfilter": { "to": 2009, "from": 2011 },
   "signals": [
     {"id": "SILVERADO_2500_KNOCK_RETARD", "path": "Engine", "fmt": { "len": 8, "max": 56.1, "mul": 22, "div": 100, "unit": "degrees" }, "name": "Knock retard"}
   ]},
@@ -247,15 +247,15 @@
   "signals": [
     {"id": "SILVERADO_2500_INJ_WIDTH_CYL_8", "path": "Engine", "fmt": { "len": 16, "max": 1000, "div": 65.535, "unit": "milliseconds" }, "name": "Injector pulse width, cylinder 8"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "12C3"}, "freq": 1, "dbgfilter": { "to": 2009, "from": 2011 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "12C3"}, "freq": 1, "filter": { "to": 2014 }, "dbgfilter": { "to": 2009, "from": 2011 },
   "signals": [
     {"id": "SILVERADO_2500_INJECTOR_DUTY_CYCLE_BANK_1", "path": "Engine", "fmt": { "len": 16, "max": 983.025, "mul": 150, "div": 10000, "unit": "milliseconds" }, "name": "Injector duty cycle bank 1"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "12C4"}, "freq": 1, "dbgfilter": { "to": 2009, "from": 2011 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "12C4"}, "freq": 1, "filter": { "to": 2014 }, "dbgfilter": { "to": 2009, "from": 2011 },
   "signals": [
     {"id": "SILVERADO_2500_INJECTOR_DUTY_CYCLE_BANK_2", "path": "Engine", "fmt": { "len": 16, "max": 983.025, "mul": 150, "div": 10000, "unit": "milliseconds" }, "name": "Injector duty cycle bank 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "12D9"}, "freq": 1, "dbgfilter": { "to": 2009, "from": 2011 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "12D9"}, "freq": 1, "filter": { "to": 2014 }, "dbgfilter": { "to": 2009, "from": 2011 },
   "signals": [
     {"id": "SILVERADO_2500_TOTAL_KNOCK_RETARD", "path": "Engine", "fmt": { "len": 8, "max": 114.75, "mul": 45, "div": 100, "unit": "degrees" }, "name": "Total knock retard"}
   ]},
@@ -503,7 +503,7 @@
   "signals": [
     {"id": "SILVERADO_2500_AIRFILT_LIFE", "path": "Engine", "fmt": { "len": 8, "max": 100, "unit": "percent" }, "name": "Air filter life remaining"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "3812"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "3812"}, "freq": 1, "filter": { "to": 2014, "from": 2020 }, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "SILVERADO_2500_COOLING_FAN_CMD", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Cooling fan command"}
   ]},
@@ -567,7 +567,7 @@
   "signals": [
     {"id": "SILVERADO_AXLE_TQ_DRIVER_REQ_V2", "path": "Engine", "fmt": { "len": 16, "max": 43001, "min": -22534, "add": -22534, "unit": "newtonMeters" }, "name": "Axle torque driver requested"}
   ]},
-{ "hdr": "7E2", "rax": "7EA", "cmd": {"22": "280D"}, "freq": 5, "dbgfilter": { "to": 2014, "from": 2016 },
+{ "hdr": "7E2", "rax": "7EA", "cmd": {"22": "280D"}, "freq": 5, "filter": { "to": 2019 }, "dbgfilter": { "to": 2014, "from": 2016 },
   "signals": [
     {"id": "SILVERADO_2500_ATF_T_VAR_6", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Transmission fluid temperature, variant 6"}
   ]},
