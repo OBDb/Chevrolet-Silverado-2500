@@ -4,8 +4,8 @@ test_cases:
     LOAD_ABS: 48.62745
   response: 18DAF111044143007C
 - expected_values:
-    LOAD_ABS: 96.86275
-  response: 18DAF11104414300F7
+    LOAD_ABS: 100
+  response: 18DAF11104414300FF
 - expected_values:
     LOAD_ABS: 101.96078
   response: 18DAF1110441430104
