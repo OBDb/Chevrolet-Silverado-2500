@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     SILVERADO_2500_MISFIRES_C3_CUR_DA11: 0.78431
   response: 142AF1110462120702
+- expected_values:
+    SILVERADO_2500_MISFIRES_C3_CUR_DA11: 1.56863
+  response: 142AF1110462120704

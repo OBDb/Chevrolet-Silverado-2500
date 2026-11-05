@@ -4,8 +4,23 @@ test_cases:
     SILVERADO_CURRENT_GEAR_VAR_3_V2: 0
   response: 142AF1110462320100
 - expected_values:
+    SILVERADO_CURRENT_GEAR_VAR_3_V2: 1
+  response: 142AF1110462320101
+- expected_values:
+    SILVERADO_CURRENT_GEAR_VAR_3_V2: 3
+  response: 142AF1110462320103
+- expected_values:
+    SILVERADO_CURRENT_GEAR_VAR_3_V2: 4
+  response: 142AF1110462320104
+- expected_values:
     SILVERADO_CURRENT_GEAR_VAR_3_V2: 7
   response: 142AF1110462320107
 - expected_values:
     SILVERADO_CURRENT_GEAR_VAR_3_V2: 8
   response: 142AF1110462320108
+- expected_values:
+    SILVERADO_CURRENT_GEAR_VAR_3_V2: 9
+  response: 142AF1110462320109
+- expected_values:
+    SILVERADO_CURRENT_GEAR_VAR_3_V2: 10
+  response: 142AF111046232010A

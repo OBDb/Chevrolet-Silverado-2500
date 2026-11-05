@@ -4,8 +4,8 @@ test_cases:
     SILVERADO_VSS_V2: 0
   response: 142AF1110462000D00
 - expected_values:
-    SILVERADO_VSS_V2: 86
-  response: 142AF1110462000D56
+    SILVERADO_VSS_V2: 102
+  response: 142AF1110462000D66
 - expected_values:
-    SILVERADO_VSS_V2: 92
-  response: 142AF1110462000D5C
+    SILVERADO_VSS_V2: null
+  response: 142AF1110462000DFF

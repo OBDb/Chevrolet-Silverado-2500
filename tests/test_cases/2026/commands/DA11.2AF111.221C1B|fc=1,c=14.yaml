@@ -4,8 +4,5 @@ test_cases:
     SILVERADO_EOP_CALC_V2: 0
   response: 142AF11104621C1B00
 - expected_values:
-    SILVERADO_EOP_CALC_V2: 340
-  response: 142AF11104621C1B55
-- expected_values:
-    SILVERADO_EOP_CALC_V2: 356
-  response: 142AF11104621C1B59
+    SILVERADO_EOP_CALC_V2: 432
+  response: 142AF11104621C1B6C

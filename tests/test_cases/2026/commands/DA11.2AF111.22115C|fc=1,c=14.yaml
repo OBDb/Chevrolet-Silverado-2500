@@ -4,11 +4,5 @@ test_cases:
     SILVERADO_EOP_2_V2: -0.6
   response: 142AF1110462115C23
 - expected_values:
-    SILVERADO_EOP_2_V2: 0
-  response: 142AF1110462115C24
-- expected_values:
-    SILVERADO_EOP_2_V2: 47.4
-  response: 142AF1110462115C73
-- expected_values:
-    SILVERADO_EOP_2_V2: 49.8
-  response: 142AF1110462115C77
+    SILVERADO_EOP_2_V2: 61.8
+  response: 142AF1110462115C8B

@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     SILVERADO_MIS_HISTORY_8_V2: 0
   response: 142AF111056211FB0000
+- expected_values:
+    SILVERADO_MIS_HISTORY_8_V2: 1
+  response: 142AF111056211FB0001
+- expected_values:
+    SILVERADO_MIS_HISTORY_8_V2: 2
+  response: 142AF111056211FB0002

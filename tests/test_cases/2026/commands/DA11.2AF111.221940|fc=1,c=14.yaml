@@ -4,8 +4,5 @@ test_cases:
     SILVERADO_ATF_T_VAR_1_V2: 40
   response: 142AF1110462194050
 - expected_values:
-    SILVERADO_ATF_T_VAR_1_V2: 43
-  response: 142AF1110462194053
-- expected_values:
-    SILVERADO_ATF_T_VAR_1_V2: 46
-  response: 142AF1110462194056
+    SILVERADO_ATF_T_VAR_1_V2: 65
+  response: 142AF1110462194069

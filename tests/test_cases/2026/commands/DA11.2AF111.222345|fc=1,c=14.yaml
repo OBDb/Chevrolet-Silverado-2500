@@ -4,8 +4,5 @@ test_cases:
     SILVERADO_2500_EOP_ACT: 0
   response: 142AF1110462234500
 - expected_values:
-    SILVERADO_2500_EOP_ACT: 332
-  response: 142AF1110462234553
-- expected_values:
-    SILVERADO_2500_EOP_ACT: 352
-  response: 142AF1110462234558
+    SILVERADO_2500_EOP_ACT: 432
+  response: 142AF111046223456C
