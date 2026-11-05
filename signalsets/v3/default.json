@@ -587,39 +587,39 @@
   "signals": [
     {"id": "SILVERADO_DPF_PRES", "path": "Engine", "fmt": { "len": 16, "max": 327.67, "min": -327.68, "mul": 100, "div": 10000, "sign": true, "unit": "kilopascal" }, "name": "Diesel particulate filter, pressure"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "000D"}, "freq": 0.25, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "000D"}, "freq": 0.25, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_VSS_V2", "path": "Movement", "fmt": { "len": 8, "max": 255, "nullmax": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "0010"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "0010"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_MAF_DA11", "path": "Engine", "fmt": { "len": 16, "max": 655.35, "mul": 100, "div": 10000, "unit": "gramsPerSecond" }, "name": "Mass airflow sensor"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "002F"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "002F"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_FLI_DA11", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel remaining", "suggestedMetric": "fuelTankLevel"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "0042"}, "freq": 5, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "0042"}, "freq": 5, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_CTRL_MODULE_V_V2", "path": "Battery", "fmt": { "len": 16, "max": 65.53, "div": 1000, "unit": "volts" }, "name": "Control module voltage", "suggestedMetric": "starterBatteryVoltage"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "005C"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "005C"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_EOT_DA11_2_2", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Engine oil temperature", "suggestedMetric": "engineOilTemperature"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "005E"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "005E"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_FUEL_RATE_DA11", "path": "Fuel", "fmt": { "len": 16, "max": 3276.75, "mul": 500, "div": 10000, "unit": "liters" }, "name": "Fuel consumption rate"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "0078"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "0078"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_DPF_EGT_4", "path": "Engine", "fmt": {"bix": 56, "len": 16, "max": 6513.5, "min": -40, "div": 10, "add": -40, "unit": "celsius" }, "name": "Diesel particulate filter, exhaust gas temperature 4"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "009D"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "009D"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_TOTAL_FUEL_CONSUMPTION_RATE_DA11", "path": "Fuel", "fmt": { "len": 16, "max": 1310.7, "mul": 200, "div": 10000, "unit": "gramsPerSecond" }, "name": "Total fuel consumption rate"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1141"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1141"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_IGN_1_V_V2", "path": "Battery", "fmt": { "len": 8, "max": 25.5, "div": 10, "unit": "volts" }, "name": "Ignition 1 voltage"}
   ]},
@@ -627,11 +627,11 @@
   "signals": [
     {"id": "SILVERADO_EGR_V_V2", "path": "Engine", "fmt": { "len": 8, "max": 5, "div": 51, "unit": "volts" }, "name": "Exhaust gas recirculation voltage"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1154"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1154"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_EOT_CALC_V2", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Calculated engine oil temperature", "suggestedMetric": "engineOilTemperature"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "115C"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "115C"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_EOP_2_V2", "path": "Engine", "fmt": { "len": 8, "max": 131.39, "min": -21.6, "mul": 3, "div": 5, "add": -21.6, "nullmax": 131.39, "unit": "psi" }, "name": "Engine oil pressure 2", "description": "Reads 0 psi at the sensor's zero-pressure floor, raw 36; the 0.6 psi slope is not yet checked against a gauge."}
   ]},
@@ -659,91 +659,91 @@
   "signals": [
     {"id": "SILVERADO_2500_FUEL_INJECTION_C7", "path": "Fuel", "fmt": { "len": 16, "max": 1000, "mul": 1000, "div": 65535, "unit": "milliseconds" }, "name": "Fuel injection, cylinder 7"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "11A1"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "11A1"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_RUNTM_V2", "path": "Clocks", "fmt": { "len": 16, "max": 65535, "unit": "seconds" }, "name": "Time since engine start"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "11EA"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "11EA"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_MISFIRES_C5_CUR_DA11", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Misfires, current, cylinder 5"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "11EB"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "11EB"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_MISFIRES_C6_CUR_DA11", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Misfires, current, cylinder 6"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "11EC"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "11EC"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_MISFIRES_C7_CUR", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Misfires, current, cylinder 7"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "11ED"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "11ED"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_MISFIRES_C8_CUR", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Misfires, current, cylinder 8"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "11F8"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "11F8"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_MIS_HISTORY_5_V2", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Misfire history, cylinder 5"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "11F9"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "11F9"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_MIS_HISTORY_6_V2", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Misfire history, cylinder 6"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "11FA"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "11FA"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_MIS_HISTORY_7_V2", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Misfire history, cylinder 7"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "11FB"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "11FB"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_MIS_HISTORY_8_V2", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Misfire history, cylinder 8"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1200"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1200"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_TOTAL_MISFIRE_V2", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Total misfire"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1201"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1201"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_MIS_HISTORY_1_V2", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Misfire history, cylinder 1"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1202"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1202"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_MIS_HISTORY_2_V2", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Misfire history, cylinder 2"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1203"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1203"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_MIS_HISTORY_3_V2", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Misfire history, cylinder 3"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1204"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1204"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_MIS_HISTORY_4_V2", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Misfire history, cylinder 4"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1205"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1205"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_MISFIRES_C2_CUR_DA11", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Misfires, current, cylinder 2"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1206"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1206"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_MISFIRES_C1_CUR_DA11", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Misfires, current, cylinder 1"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1207"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1207"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_MISFIRES_C3_CUR_DA11", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Misfires, current, cylinder 3"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1208"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1208"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_MISFIRES_C4_CUR_DA11", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Misfires, current, cylinder 4"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "13AF"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "13AF"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_COOLING_FAN_MOTOR_CMD_V2", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Cooling fan motor command"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1470"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1470"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_EOP_DA11_2", "path": "Engine", "fmt": { "len": 8, "max": 1020, "mul": 400, "div": 100, "unit": "kilopascal" }, "name": "Engine oil pressure"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "153E"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "153E"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_EOT_DA11_2", "path": "Engine", "fmt": { "len": 8, "max": 215, "add": -40, "unit": "celsius" }, "name": "Engine oil temperature"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1564"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1564"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_AC_HIGH_SIDE_P_V2", "path": "Engine", "fmt": { "len": 8, "max": 515.1, "mul": 2.02, "unit": "psi" }, "name": "Air conditioning high side pressure"}
   ]},
@@ -779,11 +779,11 @@
   "signals": [
     {"id": "SILVERADO_BALANCE_RATE_CYL_8_V2", "path": "Engine", "fmt": { "len": 16, "max": 511, "min": -512, "div": 64, "add": -512, "unit": "scalar" }, "name": "Balance rate, cylinder 8"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1940"}, "freq": 5, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1940"}, "freq": 5, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_ATF_T_VAR_1_V2", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Transmission fluid temperature, variant 1", "suggestedMetric": "transmissionFluidTemperature"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1C1B"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1C1B"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_EOP_CALC_V2", "path": "Engine", "fmt": { "len": 8, "max": 1020, "mul": 400, "div": 100, "unit": "kilopascal" }, "name": "Calculated engine oil pressure"}
   ]},
@@ -815,11 +815,11 @@
   "signals": [
     {"id": "SILVERADO_2500_FUEL_INJECTION_C8_DA11", "path": "Fuel", "fmt": { "len": 16, "max": 65.535, "mul": 10, "div": 10000, "unit": "milliseconds" }, "name": "Fuel injection, cylinder 8"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "20E3"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "20E3"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_BP_ACT_DA11", "path": "Engine", "fmt": { "len": 16, "max": 655.35, "mul": 100, "div": 10000, "unit": "kilopascal" }, "name": "Boost pressure: actual"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "20F3"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "20F3"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_DPF_ENGINE_RUN_TIME_SINCE_LAST_REGEN_MIN", "path": "Engine", "fmt": { "len": 16, "max": 8738, "mul": 8, "div": 60, "unit": "minutes" }, "name": "Diesel particulate filter, engine run time since last regeneration"}
   ]},
@@ -827,31 +827,31 @@
   "signals": [
     {"id": "SILVERADO_DPF_CALCULATED_FLOW_RESISTANCE_KPA_L_S", "path": "Engine", "fmt": { "len": 8, "max": 2.55, "div": 100, "unit": "scalar" }, "name": "Diesel particulate filter, calculated flow resistance, in kilopascals per liter per second"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "20F7"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "20F7"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_DPF_AVG_DIST_BETWEEN_REGENS", "path": "Trips", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Diesel particulate filter, average distance between regenerations"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "20F8"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "20F8"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_DPF_AVG_FLT_INLET_T_DURING_REGEN", "path": "Engine", "fmt": { "len": 16, "max": 6513.5, "min": -40, "div": 10, "add": -40, "unit": "seconds" }, "name": "Diesel particulate filter, average filter inlet temperature during regeneration"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "2344"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "2344"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_EOP_ABS_2", "path": "Engine", "fmt": { "len": 8, "max": 1020, "mul": 4, "unit": "kilopascal" }, "name": "Engine oil absolute pressure sensor"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "2345"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "2345"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_EOP_ACT", "path": "Engine", "fmt": { "len": 8, "max": 1020, "mul": 4, "unit": "kilopascal" }, "name": "Engine oil pressure: actual"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "3039"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "3039"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_DPF_DIST_SINCE_LAST_REGEN", "path": "Trips", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Diesel particulate filter, distance since last regeneration"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "303A"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "303A"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_DPF_EGT_1", "path": "Engine", "fmt": { "len": 16, "max": 6513.5, "min": -40, "div": 10, "add": -40, "unit": "celsius" }, "name": "Diesel particulate filter, exhaust gas temperature 1"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "303B"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "303B"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_DPF_EGT_2", "path": "Engine", "fmt": { "len": 16, "max": 6513.5, "min": -40, "div": 10, "add": -40, "unit": "celsius" }, "name": "Diesel particulate filter, exhaust gas temperature 2"}
   ]},
@@ -859,7 +859,7 @@
   "signals": [
     {"id": "SILVERADO_DPF_REGEN_REASON", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Diesel particulate filter, regeneration reason"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "304B"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "304B"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_DPF_NUMBER_OF_COMPLETED_REGENS", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Diesel particulate filter, number of completed regenerations"}
   ]},
@@ -879,7 +879,7 @@
   "signals": [
     {"id": "SILVERADO_2500_CHARGE_AIR_COOLER_T_SNS_2_DA11", "path": "Battery", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Charge air cooler temperature sensor 2"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "3201"}, "freq": 0.25, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "3201"}, "freq": 0.25, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_CURRENT_GEAR_VAR_3_V2", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Current gear, variant 3"}
   ]},
@@ -887,7 +887,7 @@
   "signals": [
     {"id": "SILVERADO_2500_FUEL_T_DA11", "path": "Fuel", "fmt": { "len": 8, "max": 127.5, "mul": 50, "div": 100, "unit": "celsius" }, "name": "Fuel temperature"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "328A"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "328A"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_BP_DES_DA11", "path": "Engine", "fmt": { "len": 16, "max": 655.35, "mul": 100, "div": 10000, "unit": "kilopascal" }, "name": "Boost pressure: desired"}
   ]},
@@ -899,7 +899,7 @@
   "signals": [
     {"id": "SILVERADO_DPF_REGEN_STS", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Diesel particulate filter, regeneration status"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "34D9"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "34D9"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_DPF_CORRECTED_PRES", "path": "Engine", "fmt": { "len": 16, "max": 327.67, "min": -327.68, "mul": 100, "div": 10000, "sign": true, "unit": "kilopascal" }, "name": "Diesel particulate filter, corrected pressure"}
   ]},
@@ -907,74 +907,74 @@
   "signals": [
     {"id": "SILVERADO_PARTICULATE_MATTER_SNS_SOOT_ACCUMULATION", "path": "Engine", "fmt": { "len": 16, "max": 100, "mul": 100, "div": 10000, "sign": true, "unit": "percent" }, "name": "Particulate matter sensor soot accumulation"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "36A7"}, "freq": 30, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "36A7"}, "freq": 30, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_AIRFILT_LIFE_DA11", "path": "Engine", "fmt": { "len": 8, "max": 100, "unit": "percent" }, "name": "Air filter life remaining"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "dbg": true, "cmd": {"22": "37A7"}, "freq": 1,
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "37A7"}, "freq": 1, "dbgfilter": { "to": 2025, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_EOP_DES", "path": "Engine", "fmt": { "len": 8, "max": 1020, "mul": 4, "unit": "kilopascal" }, "name": "Engine oil pressure, desired"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "3812"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "3812"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_COOLING_FAN_CMD_V2", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Cooling fan command"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "4DC0"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "4DC0"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_EO_LIFE_REMAINING_DA11", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Engine oil life remaining"}
   ]},
-{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "1940"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "1940"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_TFT", "path": "Transmission", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Transmission fluid temperature", "suggestedMetric": "transmissionFluidTemperature"}
   ]},
-{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "1942"}, "freq": 0.25, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "1942"}, "freq": 0.25, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_OUTPUT_SHFT_SPD_V3", "path": "Movement", "fmt": { "len": 16, "max": 8191, "min": -8192, "div": 4, "sign": true, "unit": "rpm" }, "name": "AT output shaft speed"}
   ]},
-{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "1991"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "1991"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_TC_SLIP_VSS_DA18", "path": "Movement", "fmt": { "len": 16, "max": 4095.875, "min": -4096, "mul": 1250, "div": 10000, "sign": true, "unit": "rpm" }, "name": "Torque converter clutch slip speed"}
   ]},
-{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "1B30"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "1B30"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_CURRENT_GEAR_DA18", "path": "Transmission", "fmt": { "len": 8, "max": 252, "min": -3, "add": -3, "unit": "scalar" }, "name": "Current gear"}
   ]},
-{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "2862"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "2862"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_TRANS_P_V3", "path": "Transmission", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "scalar" }, "name": "Transmission pressure"}
   ]},
-{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "2889"}, "freq": 0.25, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "2889"}, "freq": 0.25, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_GEAR_POS", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Gear, AT position"}
   ]},
-{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "295A"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "295A"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_TF_T_FLTED_DA18", "path": "Transmission", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Transmission fluid temperature, filtered"}
   ]},
-{ "hdr": "DA1A", "rax": "2AF11A", "pri": "14", "fcm1": true, "cmd": {"22": "448F"}, "freq": 30, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA1A", "rax": "2AF11A", "pri": "14", "fcm1": true, "cmd": {"22": "448F"}, "freq": 30, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_ODO", "path": "Trips", "fmt": { "len": 32, "max": 1000000, "mul": 156.25, "div": 10000, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
-{ "hdr": "DA28", "rax": "2AF128", "pri": "14", "fcm1": true, "cmd": {"22": "4A7A"}, "freq": 0.25, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA28", "rax": "2AF128", "pri": "14", "fcm1": true, "cmd": {"22": "4A7A"}, "freq": 0.25, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_FL_WHEEL_VSS", "path": "Tires", "fmt": {           "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Front left wheel speed"},
     {"id": "SILVERADO_2500_FR_WHEEL_VSS", "path": "Tires", "fmt": {"bix": 8,  "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Front right wheel speed"},
     {"id": "SILVERADO_2500_RL_WHEEL_VSS", "path": "Tires", "fmt": {"bix": 16, "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"},
     {"id": "SILVERADO_2500_RR_WHEEL_VSS", "path": "Tires", "fmt": {"bix": 24, "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"}
   ]},
-{ "hdr": "DA28", "rax": "2AF128", "pri": "14", "fcm1": true, "cmd": {"22": "4A7C"}, "freq": 0.25, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA28", "rax": "2AF128", "pri": "14", "fcm1": true, "cmd": {"22": "4A7C"}, "freq": 0.25, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_BP", "path": "Engine", "fmt": { "len": 8, "max": 12700, "min": -12800, "mul": 100, "sign": true, "unit": "kilopascal" }, "name": "Brake pressure, raw scale"}
   ]},
-{ "hdr": "DA28", "rax": "2AF128", "pri": "14", "fcm1": true, "cmd": {"22": "4C2D"}, "freq": 0.1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA28", "rax": "2AF128", "pri": "14", "fcm1": true, "cmd": {"22": "4C2D"}, "freq": 0.1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_STEER_ANGLE", "path": "Control", "fmt": { "len": 16, "max": 720.8739, "min": -720.896, "mul": 220, "div": 10000, "sign": true, "unit": "degrees" }, "name": "Steering wheel angle"}
   ]},
-{ "hdr": "DA28", "rax": "2AF128", "pri": "14", "fcm1": true, "cmd": {"22": "4C2F"}, "freq": 0.1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA28", "rax": "2AF128", "pri": "14", "fcm1": true, "cmd": {"22": "4C2F"}, "freq": 0.1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_LAT_G", "path": "Orientation", "fmt": { "len": 16, "max": 52, "min": -52, "mul": 15.92796725, "div": 10000, "sign": true, "unit": "gravity" }, "name": "Lateral acceleration"}
   ]},
-{ "hdr": "DA28", "rax": "2AF128", "pri": "14", "fcm1": true, "cmd": {"22": "4C30"}, "freq": 0.1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA28", "rax": "2AF128", "pri": "14", "fcm1": true, "cmd": {"22": "4C30"}, "freq": 0.1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_LNG_G", "path": "Orientation", "fmt": { "len": 16, "max": 52, "min": -52, "mul": 15.92796725, "div": 10000, "sign": true, "unit": "gravity" }, "name": "Longitudinal acceleration"}
   ]},
@@ -994,7 +994,7 @@
   "signals": [
     {"id": "SILVERADO_2500_TID_RL_DA40", "path": "Tires", "fmt": { "len": 32, "max": 4294967295, "unit": "hex" }, "name": "Rear left tire sensor ID"}
   ]},
-{ "hdr": "DA40", "rax": "40", "cmd": {"22": "448F"}, "freq": 30, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA40", "rax": "40", "cmd": {"22": "448F"}, "freq": 30, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_ODO_V2", "path": "Trips", "fmt": { "len": 32, "max": 671088, "div": 64, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer", "description": "u32/64 km. Verified against the dash to the mile (2,031,186/64 = 31,737 km = 19,720 mi). 22415B returns the same register."}
   ]},
@@ -1002,11 +1002,11 @@
   "signals": [
     {"id": "SILVERADO_2500_TP_FL_DA40", "path": "Tires", "fmt": { "len": 16, "max": 4095.9375, "div": 16, "nullmin": 0, "unit": "kilopascal" }, "name": "Front left tire pressure", "suggestedMetric": "frontLeftTirePressure"}
   ]},
-{ "hdr": "DA40", "rax": "40", "cmd": {"22": "5006"}, "freq": 15, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA40", "rax": "40", "cmd": {"22": "5006"}, "freq": 15, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_TP_FR_DA40", "path": "Tires", "fmt": { "len": 16, "max": 4095.9375, "div": 16, "nullmin": 0, "unit": "kilopascal" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"}
   ]},
-{ "hdr": "DA40", "rax": "40", "cmd": {"22": "5007"}, "freq": 15, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA40", "rax": "40", "cmd": {"22": "5007"}, "freq": 15, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "SILVERADO_2500_TP_RR_DA40", "path": "Tires", "fmt": { "len": 16, "max": 4095.9375, "div": 16, "nullmin": 0, "unit": "kilopascal" }, "name": "Rear right tire pressure", "suggestedMetric": "rearRightTirePressure"}
   ]},

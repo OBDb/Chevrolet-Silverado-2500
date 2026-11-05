@@ -1,0 +1,11 @@
+command_id: DA18.2AF118.221942|fc=1,c=14
+test_cases:
+- expected_values:
+    SILVERADO_OUTPUT_SHFT_SPD_V3: 0
+  response: 142AF118056219420000
+- expected_values:
+    SILVERADO_OUTPUT_SHFT_SPD_V3: 4415.25
+  response: 142AF1180562194244FD
+- expected_values:
+    SILVERADO_OUTPUT_SHFT_SPD_V3: 4469.75
+  response: 142AF1180562194245D7

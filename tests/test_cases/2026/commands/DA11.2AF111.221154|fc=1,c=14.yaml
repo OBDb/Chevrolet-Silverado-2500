@@ -1,0 +1,11 @@
+command_id: DA11.2AF111.221154|fc=1,c=14
+test_cases:
+- expected_values:
+    SILVERADO_EOT_CALC_V2: 85
+  response: 142AF111046211547D
+- expected_values:
+    SILVERADO_EOT_CALC_V2: 88
+  response: 142AF1110462115480
+- expected_values:
+    SILVERADO_EOT_CALC_V2: 89
+  response: 142AF1110462115481

@@ -1,0 +1,11 @@
+command_id: DA18.2AF118.22295A|fc=1,c=14
+test_cases:
+- expected_values:
+    SILVERADO_2500_TF_T_FLTED_DA18: 40
+  response: 142AF1180462295A50
+- expected_values:
+    SILVERADO_2500_TF_T_FLTED_DA18: 43
+  response: 142AF1180462295A53
+- expected_values:
+    SILVERADO_2500_TF_T_FLTED_DA18: 46
+  response: 142AF1180462295A56
