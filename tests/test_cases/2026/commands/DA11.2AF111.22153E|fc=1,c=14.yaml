@@ -4,8 +4,5 @@ test_cases:
     SILVERADO_2500_EOT_DA11_2: 76
   response: 142AF1110462153E74
 - expected_values:
-    SILVERADO_2500_EOT_DA11_2: 82
-  response: 142AF1110462153E7A
-- expected_values:
-    SILVERADO_2500_EOT_DA11_2: 83
-  response: 142AF1110462153E7B
+    SILVERADO_2500_EOT_DA11_2: 96
+  response: 142AF1110462153E88

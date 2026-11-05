@@ -4,8 +4,26 @@ test_cases:
     SILVERADO_TRANS_P_V3: 4704
   response: 142AF118056228621260
 - expected_values:
+    SILVERADO_TRANS_P_V3: 7762
+  response: 142AF118056228621E52
+- expected_values:
+    SILVERADO_TRANS_P_V3: 8800
+  response: 142AF118056228622260
+- expected_values:
+    SILVERADO_TRANS_P_V3: 11200
+  response: 142AF118056228622BC0
+- expected_values:
     SILVERADO_TRANS_P_V3: 12026
   response: 142AF118056228622EFA
 - expected_values:
+    SILVERADO_TRANS_P_V3: 12047
+  response: 142AF118056228622F0F
+- expected_values:
     SILVERADO_TRANS_P_V3: 12461
   response: 142AF1180562286230AD
+- expected_values:
+    SILVERADO_TRANS_P_V3: 12504
+  response: 142AF1180562286230D8
+- expected_values:
+    SILVERADO_TRANS_P_V3: 16000
+  response: 142AF118056228623E80
