@@ -1,0 +1,8 @@
+command_id: DA11.2AF111.2211F8|fc=1,c=14
+test_cases:
+- expected_values:
+    SILVERADO_MIS_HISTORY_5_V2: 0
+  response: 142AF111056211F80000
+- expected_values:
+    SILVERADO_MIS_HISTORY_5_V2: 2
+  response: 142AF111056211F80002

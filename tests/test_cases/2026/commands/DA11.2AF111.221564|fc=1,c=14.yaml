@@ -1,0 +1,11 @@
+command_id: DA11.2AF111.221564|fc=1,c=14
+test_cases:
+- expected_values:
+    SILVERADO_AC_HIGH_SIDE_P_V2: 82.82
+  response: 142AF1110462156429
+- expected_values:
+    SILVERADO_AC_HIGH_SIDE_P_V2: 90.9
+  response: 142AF111046215642D
+- expected_values:
+    SILVERADO_AC_HIGH_SIDE_P_V2: 101
+  response: 142AF1110462156432

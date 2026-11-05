@@ -1,0 +1,14 @@
+command_id: DA11.2AF111.2213AF|fc=1,c=14
+test_cases:
+- expected_values:
+    SILVERADO_COOLING_FAN_MOTOR_CMD_V2: 0
+  response: 142AF111046213AF00
+- expected_values:
+    SILVERADO_COOLING_FAN_MOTOR_CMD_V2: 14.90196
+  response: 142AF111046213AF26
+- expected_values:
+    SILVERADO_COOLING_FAN_MOTOR_CMD_V2: 15.29412
+  response: 142AF111046213AF27
+- expected_values:
+    SILVERADO_COOLING_FAN_MOTOR_CMD_V2: 20
+  response: 142AF111046213AF33

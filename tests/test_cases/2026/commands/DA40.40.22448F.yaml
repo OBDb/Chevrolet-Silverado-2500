@@ -1,0 +1,11 @@
+command_id: DA40.40.22448F
+test_cases:
+- expected_values:
+    SILVERADO_ODO_V2: 360.10938
+  response: 18DAF1400762448F00005A07
+- expected_values:
+    SILVERADO_ODO_V2: 362.64062
+  response: 18DAF1400762448F00005AA9
+- expected_values:
+    SILVERADO_ODO_V2: 363.125
+  response: 18DAF1400762448F00005AC8

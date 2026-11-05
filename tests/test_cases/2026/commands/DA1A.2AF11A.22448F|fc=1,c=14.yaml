@@ -1,0 +1,11 @@
+command_id: DA1A.2AF11A.22448F|fc=1,c=14
+test_cases:
+- expected_values:
+    SILVERADO_2500_ODO: 360.07812
+  response: 142AF11A0762448F00005A05
+- expected_values:
+    SILVERADO_2500_ODO: 362.5625
+  response: 142AF11A0762448F00005AA4
+- expected_values:
+    SILVERADO_2500_ODO: 363.125
+  response: 142AF11A0762448F00005AC8

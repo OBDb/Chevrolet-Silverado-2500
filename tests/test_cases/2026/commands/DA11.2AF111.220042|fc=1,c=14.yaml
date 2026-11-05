@@ -1,0 +1,11 @@
+command_id: DA11.2AF111.220042|fc=1,c=14
+test_cases:
+- expected_values:
+    SILVERADO_CTRL_MODULE_V_V2: 12.946
+  response: 142AF111056200423292
+- expected_values:
+    SILVERADO_CTRL_MODULE_V_V2: 13.424
+  response: 142AF111056200423470
+- expected_values:
+    SILVERADO_CTRL_MODULE_V_V2: 14.457
+  response: 142AF111056200423879

@@ -1,0 +1,11 @@
+command_id: DA11.2AF111.2211A1|fc=1,c=14
+test_cases:
+- expected_values:
+    SILVERADO_RUNTM_V2: 0
+  response: 142AF111056211A10000
+- expected_values:
+    SILVERADO_RUNTM_V2: 804
+  response: 142AF111056211A10324
+- expected_values:
+    SILVERADO_RUNTM_V2: 909
+  response: 142AF111056211A1038D

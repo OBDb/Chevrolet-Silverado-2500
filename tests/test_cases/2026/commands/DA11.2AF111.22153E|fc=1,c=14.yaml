@@ -1,0 +1,11 @@
+command_id: DA11.2AF111.22153E|fc=1,c=14
+test_cases:
+- expected_values:
+    SILVERADO_2500_EOT_DA11_2: 76
+  response: 142AF1110462153E74
+- expected_values:
+    SILVERADO_2500_EOT_DA11_2: 82
+  response: 142AF1110462153E7A
+- expected_values:
+    SILVERADO_2500_EOT_DA11_2: 83
+  response: 142AF1110462153E7B
