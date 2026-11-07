@@ -4,5 +4,5 @@ test_cases:
     SILVERADO_2500_TFT: 24
   response: 142AF1180462194040
 - expected_values:
-    SILVERADO_2500_TFT: 66
-  response: 142AF118046219406A
+    SILVERADO_2500_TFT: 72
+  response: 142AF1180462194070
