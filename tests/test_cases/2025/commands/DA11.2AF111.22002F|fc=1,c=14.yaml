@@ -1,8 +1,8 @@
 command_id: DA11.2AF111.22002F|fc=1,c=14
 test_cases:
 - expected_values:
-    SILVERADO_2500_FLI_DA11: 28.62745
-  response: 142AF1110462002F49
+    SILVERADO_2500_FLI_DA11: 25.88235
+  response: 142AF1110462002F42
 - expected_values:
     SILVERADO_2500_FLI_DA11: 99.60784
   response: 142AF1110462002FFE
