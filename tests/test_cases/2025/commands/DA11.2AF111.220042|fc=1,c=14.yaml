@@ -7,8 +7,8 @@ test_cases:
     SILVERADO_CTRL_MODULE_V_V2: 12.582
   response: 142AF111056200423126
 - expected_values:
-    SILVERADO_CTRL_MODULE_V_V2: 13.625
-  response: 142AF111056200423539
-- expected_values:
     SILVERADO_CTRL_MODULE_V_V2: 13.8
   response: 142AF1110562004235E8
+- expected_values:
+    SILVERADO_CTRL_MODULE_V_V2: 15.181
+  response: 142AF111056200423B4D
