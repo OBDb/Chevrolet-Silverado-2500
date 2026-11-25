@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     SILVERADO_VSS_V2: 95
   response: 142AF1110462000D5F
+- expected_values:
+    SILVERADO_VSS_V2: null
+  response: 142AF1110462000DFF
